@@ -24,3 +24,11 @@ class solution:
                 digits[j] = 0
             return digits
         return [1] + [0] * n
+
+
+if __name__ == '__main__':
+    digits = [1, 2, 3]
+    s = solution()
+    result = s.plusOne(digits)
+    for num in result:
+        print(num)
