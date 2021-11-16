@@ -20,9 +20,9 @@ class solution:
         for i in range(n - 1, -1, -1):
             if digits[i] != 9:
                 digits[i] += 1
-            for j in range(i + 1, n):
-                digits[j] = 0
-            return digits
+                for j in range(i + 1, n):
+                    digits[j] = 0
+                return digits
         return [1] + [0] * n
 
 
