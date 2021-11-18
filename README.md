@@ -10,16 +10,23 @@ LeetCode Problems' Solutions
 | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md) | 中等  | 数组，模拟 |
 | [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/498.%20%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86.md) | 中等  | 数组，模拟 |
 
+[comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
+
 ## 数组排序
 
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| []()| [Python]() | 简单 | 数组 |
+| [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)| [Python]() | 中等 | 排序 |
+| [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)| [Python]() | 简单 | 排序 |
+| [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)| [Python]() | 中等 | 排序 |
 
+[comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
 
 
 ## 二叉树
 
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Python]() | 简单 | 递归 |
+| [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 |
+
+[comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
