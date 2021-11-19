@@ -16,9 +16,12 @@ LeetCode Problems' Solutions
 
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)| [Python]() | 中等 | 排序 |
+| [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2045.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) | 中等 | 排序 |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)| [Python]() | 简单 | 排序 |
 | [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)| [Python]() | 中等 | 排序 |
+| [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/)| [Python]() | 中等 | 排序 |
+| [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)| [Python]() | 简单 | 排序 |
+| [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)| [Python]() | 简单 | 排序 |
 
 [comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
 
@@ -30,3 +33,7 @@ LeetCode Problems' Solutions
 | [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 |
 
 [comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
+
+
+## 题目来源
+[LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
