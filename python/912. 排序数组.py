@@ -9,6 +9,7 @@ class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
         left, right = 0, len(nums) - 1
         self.quick_sort(nums, 0, right)
+        return nums
     def quick_sort(self, nums, left, right):
         if left > right:
             return
