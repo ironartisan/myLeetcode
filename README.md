@@ -21,8 +21,10 @@ LeetCode Problems' Solutions
 | [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 中等 | 排序 |
 | [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/506.%20%E7%9B%B8%E5%AF%B9%E5%90%8D%E6%AC%A1.md) | 中等 | 排序 |
 | [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2045.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) | 简单 | 排序 |
-| [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)| [Python]() | 困难 | 排序 |
-
+| [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2051.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.md) | 困难 | 排序 |
+| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)| [Python]() | 中等 | 排序 |
+| [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| [Python]() | 中等 | 排序 |
+| [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)| [Python]() | 简单 | 排序 |
 [comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
 
 
@@ -37,3 +39,6 @@ LeetCode Problems' Solutions
 
 ## 题目来源
 [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+
+[每日一题](https://leetcode-cn.com/problemset/all/)
+
