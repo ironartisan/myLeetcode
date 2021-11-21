@@ -54,12 +54,40 @@ LeetCode Problems' Solutions
 | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 | 排序 |
 | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) | 中等 | 排序 |
 | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md) | 简单 | 排序 |
+| [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)| [Python]() | 简单 | 排序 |
+| [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)| [Python]() | 简单 | 排序 |
+| [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)| [Python]() | 困难 | 排序 |
 
-## 滑动窗口
+## 二分查找
+[comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
+| Title                                                        | Solution                                                     | Difficulty | Types            |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
+| [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Python]() | 中等 | 排序 |
+| [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Python]() | 中等 | 排序 |
+| [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python]() | 中等 | 排序 |
+|  [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [Python]() | 中等 | 排序 |
+|  [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Python]() | 中等 | 排序 |
+|  [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)| [Python]() | 中等 | 排序 |
+| [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  | [Python]() | 中等 | 排序 |
+| [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python]() | 中等 | 排序 |
+| [0153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Python]() | 中等 | 排序 |
+
+[comment]: <> (|  | [Python]&#40;&#41; | 中等 | 排序 |)
+
+
+## 双指针与滑动窗口
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [Python]() | 简单 | 滑动窗口，排序 |
-
+| [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [Python]() | 中等 | 双指针 |
+| [0015. 三数之和](https://leetcode-cn.com/problems/3sum/) | [Python]() | 中等 | 双指针 |
+| [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| [Python]() | 中等 | 双指针 |
+| [0283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Python]() | 中等 | 双指针 |
+| [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Python]() | 中等 | 双指针 |
+| [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python]() | 中等 | 双指针 |
+| [0674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Python]() | 中等 | 双指针 |
+| [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Python]() | 中等 | 双指针 |
+| [0220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [Python]() | 中等 | 双指针 |
 
 ## 二叉树
 
