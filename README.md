@@ -1,5 +1,7 @@
 # myLeetcode
-LeetCode Problems' Solutions
+最近参与Datawhale组织的[Leetcode组队学习](https://github.com/itcharge/LeetCode-Py) ，
+所以也想记录下自己解题的过程，后续还将继续完善其他语言版本的题解。
+
 ## 数组基础
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
@@ -59,7 +61,7 @@ LeetCode Problems' Solutions
 | [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)| [Python]() | 困难 | 排序 |
 
 ## 二分查找
-[comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
+
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Python]() | 中等 | 排序 |
