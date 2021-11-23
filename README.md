@@ -64,9 +64,9 @@
 
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Python]() | 中等 | 排序 |
-| [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Python]() | 中等 | 排序 |
-| [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python]() | 中等 | 排序 |
+| [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 简单 | 排序 |
+| [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md) | 简单 | 排序 |
+| [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python]() | 简单 | 排序 |
 |  [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [Python]() | 中等 | 排序 |
 |  [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Python]() | 中等 | 排序 |
 |  [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)| [Python]() | 中等 | 排序 |
