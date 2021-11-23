@@ -61,6 +61,7 @@
 | [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/164.%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.md) | 困难 | 排序 |
 
 ## 二分查找
+[二分查找法理论](https://github.com/ironartisan/myLeetcode/blob/main/base/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E6%B3%95%E7%90%86%E8%AE%BA.md)
 
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
