@@ -2,7 +2,8 @@
 最近参与Datawhale组织的[Leetcode组队学习](https://github.com/itcharge/LeetCode-Py) ，
 所以也想记录下自己解题的过程，后续还将继续完善其他语言版本的题解。
 
-## 数组基础
+
+## Task2:数组基础
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [66.加一](https://leetcode-cn.com/problems/plus-one/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/066.%20%E5%8A%A0%E4%B8%80.md) | 简单 | 数组 |
@@ -43,7 +44,7 @@
 
 
 
-## 数组排序
+## Task3:数组排序
 
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
@@ -60,25 +61,25 @@
 | [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/908.%20%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I.md) | 简单 | 排序 |
 | [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/164.%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.md) | 困难 | 排序 |
 
-## 二分查找
+## Task4:二分查找
 [二分查找法理论](https://github.com/ironartisan/myLeetcode/blob/main/base/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E6%B3%95%E7%90%86%E8%AE%BA.md)
 
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 简单 | 排序 |
-| [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md) | 简单 | 排序 |
-| [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/374.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.md) | 简单 | 排序 |
-|  [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [Python]() | 中等 | 排序 |
-|  [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Python]() | 中等 | 排序 |
-|  [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)| [Python]() | 中等 | 排序 |
-| [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  | [Python]() | 中等 | 排序 |
-| [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python]() | 中等 | 排序 |
-| [0153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Python]() | 中等 | 排序 |
+| [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 简单 | 二分查找 |
+| [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md) | 简单 | 二分查找 |
+| [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/374.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.md) | 简单 | 二分查找 |
+|  [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/69.%20Sqrt(x).md) | 简单 | 二分查找 |
+|  [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Python]() | 中等 | 二分查找 |
+|  [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)| [Python]() | 中等 | 二分查找 |
+| [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  | [Python]() | 中等 | 二分查找 |
+| [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python]() | 中等 | 二分查找 |
+| [0153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Python]() | 中等 | 二分查找 |
 
 [comment]: <> (|  | [Python]&#40;&#41; | 中等 | 排序 |)
 
 
-## 双指针与滑动窗口
+## Task5:双指针与滑动窗口
 | Title                                                        | Solution                                                     | Difficulty | Types            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [Python]() | 简单 | 滑动窗口，排序 |
