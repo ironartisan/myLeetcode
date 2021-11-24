@@ -70,7 +70,7 @@
 | [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md) | 简单 | 二分查找 |
 | [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/374.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.md) | 简单 | 二分查找 |
 |  [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/69.%20Sqrt(x).md) | 简单 | 二分查找 |
-|  [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Python]() | 中等 | 二分查找 |
+|  [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 | 二分查找 |
 |  [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)| [Python]() | 中等 | 二分查找 |
 | [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  | [Python]() | 中等 | 二分查找 |
 | [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python]() | 中等 | 二分查找 |
