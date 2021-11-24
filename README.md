@@ -72,7 +72,7 @@
 |  [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/69.%20Sqrt(x).md) | 简单 | 二分查找 |
 |  [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 | 二分查找 |
 |  [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/1011.%20%E5%9C%A8%20D%20%E5%A4%A9%E5%86%85%E9%80%81%E8%BE%BE%E5%8C%85%E8%A3%B9%E7%9A%84%E8%83%BD%E5%8A%9B.md) | 中等 | 二分查找 |
-| [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  | [Python]() | 简单 | 二分查找 |
+| [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md) | 简单 | 二分查找 |
 | [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python]() | 中等 | 二分查找 |
 | [0153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Python]() | 中等 | 二分查找 |
 
