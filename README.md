@@ -4,7 +4,7 @@
 
 
 ## Task2:数组基础
-| Title                                                        | Solution                                                     | Difficulty | Types            |
+| Title                                                        | Solution                                                     | Difficulty | Type         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [66.加一](https://leetcode-cn.com/problems/plus-one/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/066.%20%E5%8A%A0%E4%B8%80.md) | 简单 | 数组 |
 | [724.寻找数组的中⼼下标](https://leetcode-cn.com/problems/rotate-array/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/724.%20%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E4%B8%8B%E6%A0%87.md) | 简单  | 数组 |
@@ -46,7 +46,7 @@
 
 ## Task3:数组排序
 
-| Title                                                        | Solution                                                     | Difficulty | Types            |
+| Title                                                        | Solution                                                     | Difficulty | Type          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2045.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) | 中等 | 排序 |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md) | 简单 | 排序 |
@@ -64,7 +64,7 @@
 ## Task4:二分查找
 [二分查找法理论](https://github.com/ironartisan/myLeetcode/blob/main/base/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E6%B3%95%E7%90%86%E8%AE%BA.md)
 
-| Title                                                        | Solution                                                     | Difficulty | Types            |
+| Title                                                        | Solution                                                     | Difficulty | Type         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 简单 | 二分查找 |
 | [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md) | 简单 | 二分查找 |
@@ -83,7 +83,7 @@
 
 ______
 ## Task5:双指针与滑动窗口
-| Title                                                        | Solution                                                     | Difficulty | Types            |
+| Title                                                        | Solution                                                     | Difficulty | Type            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [Python]() | 简单 | 滑动窗口，排序 |
 | [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [Python]() | 中等 | 双指针 |
@@ -98,7 +98,7 @@ ______
 ______
 ## 二叉树
 
-| Title                                                        | Solution                                                     | Difficulty | Types            |
+| Title                                                        | Solution                                                     | Difficulty | Type            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 |
 
