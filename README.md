@@ -85,7 +85,7 @@ ______
 ## Task5:双指针与滑动窗口
 | Title                                                        | Solution                                                     | Difficulty | Type            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [Python]() | 简单 | 滑动窗口，排序 |
+| [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/594.%20%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.md) | 简单 | 滑动窗口，排序 |
 | [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [Python]() | 中等 | 双指针 |
 | [0015. 三数之和](https://leetcode-cn.com/problems/3sum/) | [Python]() | 中等 | 双指针 |
 | [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| [Python]() | 中等 | 双指针 |
