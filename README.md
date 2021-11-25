@@ -93,7 +93,7 @@ ______
 | [0026. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 | 双指针 |
 | [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/80.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md) | 中等 | 双指针 |
 | [0283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md) | 简单 | 双指针 |
-| [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Python]() | 中等 | 双指针 |
+| [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 | 双指针 |
 | [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python]() | 中等 | 双指针 |
 | [0674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Python]() | 中等 | 双指针 |
 | [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Python]() | 中等 | 双指针 |
