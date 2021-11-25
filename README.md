@@ -48,61 +48,61 @@
 
 ## Task3:数组排序
 
-| Title                                                        | Solution                                                     | Difficulty | Types          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2045.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) | 中等 | 排序 |
-| [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md) | 简单 | 排序 |
-| [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 中等 | 排序 |
-| [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/506.%20%E7%9B%B8%E5%AF%B9%E5%90%8D%E6%AC%A1.md) | 中等 | 排序 |
-| [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2045.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) | 简单 | 排序 |
-| [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2051.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.md) | 困难 | 排序 |
-| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 | 排序 |
-| [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) | 中等 | 排序 |
-| [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md) | 简单 | 排序 |
-| [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/1122.%20%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.md) | 简单 | 排序 |
-| [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/908.%20%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I.md) | 简单 | 排序 |
-| [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/164.%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.md) | 困难 | 排序 |
+| Title                                                        | Solution                                                     | Difficulty | Types          | Codes     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2045.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) | 中等 | 排序 | [Python](python/剑指Offer45.把数组排成最小的数.py) |
+| [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md) | 简单 | 排序 | [Python](./python/283.移动零.py) |
+| [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 中等 | 排序 | [Python](./python/912.排序数组.py) |
+| [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/506.%20%E7%9B%B8%E5%AF%B9%E5%90%8D%E6%AC%A1.md) | 中等 | 排序 | [Python](./python/506.相对名次.py) |
+| [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2045.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) | 简单 | 排序 | [Python](./python/面试题10.01.合并排序的数组.py) |
+| [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2051.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.md) | 困难 | 排序 | [Python](./python/剑指Offer51.数组中的逆序对.py) |
+| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 | 排序 | [Python](./python/75.颜色分类.py) |
+| [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) | 中等 | 排序 | [Python](./python/215.数组中的第K个最大元素.py) |
+| [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md) | 简单 | 排序 | [Python](./python/剑指Offer40.最小的k个数.py) |
+| [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/1122.%20%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.md) | 简单 | 排序 | [Python](./python/1122.数组的相对排序.py) |
+| [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/908.%20%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I.md) | 简单 | 排序 | [Python](./python/908.最小差值I.py) |
+| [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/164.%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.md) | 困难 | 排序 | [Python](./python/164.最大间距.py) |
 
 ## Task4:二分查找
 [二分查找法理论](https://github.com/ironartisan/myLeetcode/blob/main/base/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E6%B3%95%E7%90%86%E8%AE%BA.md)
 
-| Title                                                        | Solution                                                     | Difficulty | Types         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 简单 | 二分查找 |
-| [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md) | 简单 | 二分查找 |
-| [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/374.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.md) | 简单 | 二分查找 |
-| [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/69.%20Sqrt(x).md) | 简单 | 二分查找 |
-| [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 | 二分查找 |
-| [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/1011.%20%E5%9C%A8%20D%20%E5%A4%A9%E5%86%85%E9%80%81%E8%BE%BE%E5%8C%85%E8%A3%B9%E7%9A%84%E8%83%BD%E5%8A%9B.md) | 中等 | 二分查找 |
-| [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md) | 简单 | 二分查找 |
-| [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 中等 | 二分查找 |
-| [0153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/153.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.md) | 中等 | 二分查找 |
-| [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/81.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20%20II.md) | 中等 | 二分查找 |
-| [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/154.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC%20II.md) | 困难 | 二分查找 |
-|[875. 爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 | 二分查找 |
+| Title                                                        | Solution                                                     | Difficulty | Types         | Codes    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 简单 | 二分查找 | [Python](./python/704.二分查找.py) |
+| [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md) | 简单 | 二分查找 | [Python](./python/35.搜索插入位置.py) |
+| [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/374.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.md) | 简单 | 二分查找 | [Python](./python/374.猜数字大小.py) |
+| [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/69.%20Sqrt(x).md) | 简单 | 二分查找 | [Python](./python/69.Sqrt(x).py) |
+| [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 | 二分查找 | [Python](./python/167.两数之和II-输入有序数组.py) |
+| [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/1011.%20%E5%9C%A8%20D%20%E5%A4%A9%E5%86%85%E9%80%81%E8%BE%BE%E5%8C%85%E8%A3%B9%E7%9A%84%E8%83%BD%E5%8A%9B.md) | 中等 | 二分查找 | [Python](./python/1011.在D天内送达包裹的能力.py) |
+| [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md) | 简单 | 二分查找 | [Python](./python/278.第一个错误的版本.py) |
+| [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 中等 | 二分查找 | [Python](./python/33.搜索旋转排序数组.py) |
+| [0153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/153.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.md) | 中等 | 二分查找 | [Python](./python/153.寻找旋转排序数组中的最小值.py) |
+| [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/81.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20%20II.md) | 中等 | 二分查找 | [Python](./python/81.搜索旋转排序数组II.py) |
+| [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/154.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC%20II.md) | 困难 | 二分查找 | [Python](./python/154.寻找旋转排序数组中的最小值II.py) |
+|[875. 爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 | 二分查找 | [Python](./python/875.爱吃香蕉的珂珂.py) |
 
 
 
 ## Task5:双指针与滑动窗口
-| Title                                                        | Solution                                                     | Difficulty | Types            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/594.%20%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.md) | 简单 | 滑动窗口，排序 |
-| [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/344.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 中等 | 双指针 |
-| [0015. 三数之和](https://leetcode-cn.com/problems/3sum/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 | 双指针 |
-| [0026. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 | 双指针 |
-| [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/80.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md) | 中等 | 双指针 |
-| [0283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md) | 简单 | 双指针 |
-| [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 | 双指针 |
-| [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 | 双指针 |
-| [0674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Solution]() | 中等 | 双指针 |
-| [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Solution]() | 中等 | 双指针 |
-| [0220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [Solution]() | 中等 | 双指针 |
+| Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/594.%20%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.md) | 简单 | 滑动窗口，排序 | [Python](./python/594.最长和谐子序列.py) |
+| [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/344.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 中等 | 双指针 | [Python](./python/344.反转字符串.py) |
+| [0015. 三数之和](https://leetcode-cn.com/problems/3sum/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 | 双指针 | [Python](./python/15.三数之和.py) |
+| [0026. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 | 双指针 | [Python](./python/26.删除有序数组中的重复项.py) |
+| [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/80.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md) | 中等 | 双指针 | [Python](./python/80.删除有序数组中的重复项II.py) |
+| [0283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md) | 简单 | 双指针 | [Python](./python/283.移动零.py) |
+| [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 | 双指针 | [Python](./python/75.颜色分类.py) |
+| [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 | 双指针 | [Python](./python/88.合并两个有序数组.py) |
+| [0674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Solution]() | 中等 | 双指针 | [Python](./python/xx.py) |
+| [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Solution]() | 中等 | 双指针 | [Python](./python/xx.py) |
+| [0220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [Solution]() | 中等 | 双指针 | [Python](./python/xx.py) |
 
 ## 二叉树
 
-| Title                                                        | Solution                                                     | Difficulty | Types            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 |
+| Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 | [Python](./python/563. 二叉树的坡度.py) |
 
 [comment]: <> "| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |"
 
