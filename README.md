@@ -81,9 +81,7 @@
 |[875. 爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 | 二分查找 |
 
 
-## TODO:
 
-______
 ## Task5:双指针与滑动窗口
 | Title                                                        | Solution                                                     | Difficulty | Type            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
@@ -98,7 +96,7 @@ ______
 | [0674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Python]() | 中等 | 双指针 |
 | [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Python]() | 中等 | 双指针 |
 | [0220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [Python]() | 中等 | 双指针 |
-______
+
 ## 二叉树
 
 | Title                                                        | Solution                                                     | Difficulty | Type            |
