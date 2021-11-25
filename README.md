@@ -1,7 +1,8 @@
 # myLeetcode
 最近参与Datawhale组织的[Leetcode组队学习](https://github.com/itcharge/LeetCode-Py) ，
 所以也想记录下自己解题的过程，后续还将继续完善其他语言版本的题解。
-
+## 任务
+[Leetcode 刷题课程第一期](https://github.com/itcharge/LeetCode-Py/blob/main/Assets/Course/Course-01.md)
 
 ## Task2:数组基础
 | Title                                                        | Solution                                                     | Difficulty | Type         |
@@ -89,7 +90,8 @@ ______
 | [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/594.%20%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.md) | 简单 | 滑动窗口，排序 |
 | [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/344.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 中等 | 双指针 |
 | [0015. 三数之和](https://leetcode-cn.com/problems/3sum/) | [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 | 双指针 |
-| [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| [Python]() | 中等 | 双指针 |
+| [0026. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [Python]() | 简单 | 双指针 |
+| [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| [Python](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/80.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md) | 中等 | 双指针 |
 | [0283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Python]() | 中等 | 双指针 |
 | [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Python]() | 中等 | 双指针 |
 | [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python]() | 中等 | 双指针 |
