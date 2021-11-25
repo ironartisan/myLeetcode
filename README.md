@@ -102,7 +102,7 @@
 
 | Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
-| [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 | [Python](./python/563. 二叉树的坡度.py) |
+| [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 | [Python](./python/563.二叉树的坡度.py) |
 
 [comment]: <> "| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |"
 
