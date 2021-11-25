@@ -6,43 +6,43 @@
 [Leetcode 刷题课程第一期](https://github.com/itcharge/LeetCode-Py/blob/main/Assets/Course/Course-01.md)
 
 ## Task2:数组基础
-| Title                                                        | Solution                                                     | Difficulty | Types         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
-| [66.加一](https://leetcode-cn.com/problems/plus-one/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/066.%20%E5%8A%A0%E4%B8%80.md) | 简单 | 数组 |
-| [724.寻找数组的中⼼下标](https://leetcode-cn.com/problems/rotate-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/724.%20%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E4%B8%8B%E6%A0%87.md) | 简单  | 数组 |
-| [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/189.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md) | 中等  | 数组 |
-| [48.旋转图像](https://leetcode-cn.com/problems/rotate-image/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md) | 中等  | 数组 |
-| [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md) | 中等  | 数组，模拟 |
-| [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/498.%20%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86.md) | 中等  | 数组，模拟 |
+| Title                                                        | Solution                                                     | Difficulty | Types         | Codes    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [66.加一](https://leetcode-cn.com/problems/plus-one/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/066.%20%E5%8A%A0%E4%B8%80.md) | 简单 | 数组 | [Python](./python/066.加一.py) |
+| [724.寻找数组的中⼼下标](https://leetcode-cn.com/problems/rotate-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/724.%20%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E4%B8%8B%E6%A0%87.md) | 简单  | 数组 |  |
+| [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/189.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md) | 中等  | 数组 |  |
+| [48.旋转图像](https://leetcode-cn.com/problems/rotate-image/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md) | 中等  | 数组 |  |
+| [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md) | 中等  | 数组，模拟 |  |
+| [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/498.%20%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86.md) | 中等  | 数组，模拟 |  |
 
-[comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
+[comment]: <> "| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |"
 
 
-[comment]: <> (## 排序基础算法)
+[comment]: <> "## 排序基础算法"
 
-[comment]: <> (| Title                                                        | Solution                                                     | )
+[comment]: <> "| Title                                                        | Solution                                                     | "
 
-[comment]: <> (| ------------------------------------------------------------ | ------------------------------------------------------------ |)
+[comment]: <> "| ------------------------------------------------------------ | ------------------------------------------------------------ |"
 
-[comment]: <> (| 1.冒泡排序| [Python]&#40;&#41;)
+[comment]: <> "| 1.冒泡排序| [Python]&#40;&#41;"
 
-[comment]: <> (| 2.插入排序| [Python]&#40;https://github.com/ironartisan/myLeetcode/blob/main/algorithms/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md&#41;)
+[comment]: <> "| 2.插入排序| [Python]&#40;https://github.com/ironartisan/myLeetcode/blob/main/algorithms/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md&#41;"
 
-[comment]: <> (| 3.选择排序| [Python]&#40;&#41;)
+[comment]: <> "| 3.选择排序| [Python]&#40;&#41;"
 
-[comment]: <> (| 4.希尔排序| [Python]&#40;&#41;)
+[comment]: <> "| 4.希尔排序| [Python]&#40;&#41;"
 
-[comment]: <> (| 5.归并排序| [Python]&#40;&#41;)
+[comment]: <> "| 5.归并排序| [Python]&#40;&#41;"
 
-[comment]: <> (| **6.快速排序**| [Python]&#40;&#41;)
+[comment]: <> "| **6.快速排序**| [Python]&#40;&#41;"
 
-[comment]: <> (| **7.堆排序**| [Python]&#40;&#41;)
+[comment]: <> "| **7.堆排序**| [Python]&#40;&#41;"
 
-[comment]: <> (| 8.计数排序| [Python]&#40;&#41;)
+[comment]: <> "| 8.计数排序| [Python]&#40;&#41;"
 
-[comment]: <> (| 9.桶排序| [Python]&#40;&#41;)
+[comment]: <> "| 9.桶排序| [Python]&#40;&#41;"
 
-[comment]: <> (| 10.基数排序| [Python]&#40;&#41;)
+[comment]: <> "| 10.基数排序| [Python]&#40;&#41;"
 
 
 
@@ -104,7 +104,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
 | [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 |
 
-[comment]: <> (| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |)
+[comment]: <> "| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |"
 
 
 ## 参考链接
