@@ -95,6 +95,7 @@
 | [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 | 双指针 | [Python](./python/75.颜色分类.py) |
 | [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 | 双指针 | [Python](./python/88.合并两个有序数组.py) |
 | [0674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Solution](./algorithms/674.最长连续递增序列.md) | 简单 | 双指针 | [Python](./python/674.最长连续递增序列.py) |
+| [0485.最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | [Solution](./algorithms/485.最大连续1的个数.md) | 简单 | 双指针 | [Python](./python/485.最大连续1的个数.py) |
 | [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Solution](./algorithms/1004.最大连续1的个数III.md) | 中等 | 双指针 | [Python](./python/1004.最大连续1的个数.py) |
 | [0220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [Solution](./algorithms/220.存在重复元素III.md) | 中等 | 双指针 | [Python](./python/220.存在重复元素III.py) |
 
