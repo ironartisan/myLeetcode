@@ -63,6 +63,7 @@
 | [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/908.%20%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC%20I.md) | 简单 | 排序 | [Python](./python/908.最小差值I.py) |
 | [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/164.%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.md) | 困难 | 排序 | [Python](./python/164.最大间距.py) |
 | [786.第 K 个最小的素数分数](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)| [Solution](./algorithms/786.第K个最小的素数分数.md) | 困难 | 排序 | [Python](./python/786.第K个最小的素数分数.py) |
+| [1005.K次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)|[Solution](./algorithms/1005.K次取反后最大化的数组和.md)| 简单 | 排序 | [Python](./python/1005.K次取反后最大化的数组和.py)
 ## Task4:二分查找
 [二分查找法理论](https://github.com/ironartisan/myLeetcode/blob/main/base/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E6%B3%95%E7%90%86%E8%AE%BA.md)
 
