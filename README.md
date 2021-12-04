@@ -100,6 +100,15 @@
 | [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [Solution](./algorithms/1004.最大连续1的个数III.md) | 中等 | 双指针 | [Python](./python/1004.最大连续1的个数III.py) |
 | [0220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [Solution](./algorithms/220.存在重复元素III.md) | 中等 | 滑动窗口 | [Python](./python/220.存在重复元素III.py) |
 | [438.找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)| [Solution](./algorithms/438.找到字符串中所有字母异位词.md)|中等|滑动窗口| [Python](./python/438.找到字符串中所有字母异位词.py) |
+## 哈希表
+
+| Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [383.赎金信](https://leetcode-cn.com/problems/ransom-note/)| [Solution](./algorithms/383.赎金信.md) | 简单 | 哈希表 | [Python](./python/383.赎金信.py) |
+
+
+
+
 ## 二叉树
 
 | Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
@@ -107,6 +116,7 @@
 | [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)| [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 | 递归 | [Python](./python/563.二叉树的坡度.py) |
 
 [comment]: <> "| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |"
+
 
 
 
