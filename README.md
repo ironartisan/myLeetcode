@@ -107,6 +107,10 @@
 | [383.赎金信](https://leetcode-cn.com/problems/ransom-note/)| [Solution](./algorithms/383.赎金信.md) | 简单 | 哈希表 | [Python](./python/383.赎金信.py) |
 
 
+## 字符串
+| Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [1816.截断句子](https://leetcode-cn.com/problems/truncate-sentence/)| [Solution](./algorithms/1816.截断句子.md) | 简单 | 模拟 | [Python](./python/1816.截断句子.py) |
 
 
 ## 二叉树
