@@ -5,6 +5,14 @@
 ## 任务
 [Leetcode 刷题课程第一期](https://github.com/itcharge/LeetCode-Py/blob/main/Assets/Course/Course-01.md)
 
+
+
+## 模拟
+| Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [1034.边界着色](https://leetcode-cn.com/problems/shortest-completing-word/)| [Solution](./algorithms/748.最短补全词.md) | 简单 | 模拟 | [Python](./python/748.最短补全词.py) |
+
+
 ## Task2:数组基础
 | Title                                                        | Solution                                                     | Difficulty | Types         | Codes    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
