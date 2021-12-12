@@ -90,7 +90,7 @@
 | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/154.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC%20II.md) | 困难 | 二分查找 | [Python](./python/154.寻找旋转排序数组中的最小值II.py) |
 |[875. 爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) | [Solution](https://github.com/ironartisan/myLeetcode/blob/main/algorithms/875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 | 二分查找 | [Python](./python/875.爱吃香蕉的珂珂.py) |
 |[1446.连续字符](https://leetcode-cn.com/problems/consecutive-characters/) | [Solution](./algorithms/1446.连续字符.md) | 简单 | 二分查找 | [Python](./python/1446.连续字符.py) |
-|[911.在线选举](https://leetcode-cn.com/problems/online-election/) | [Solution](./algorithms/911.在线选举) | 简单 | 二分查找 | [Python](./python/911.在线选举.py) |
+|[911.在线选举](https://leetcode-cn.com/problems/online-election/) | [Solution](./algorithms/911.在线选举.md) | 简单 | 二分查找 | [Python](./python/911.在线选举.py) |
 
 
 ## Task5:双指针与滑动窗口
@@ -141,7 +141,7 @@
 ## 位运算
 | Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
-| [709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)| [Solution](./algorithms/709.转换成小写字母.md) | 简单 | 位运算 | [Python](./python/709.转换成小写字母py) |
+| [709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)| [Solution](./algorithms/709.转换成小写字母.md) | 简单 | 位运算 | [Python](./python/709.转换成小写字母.py) |
 
 
 ## 参考链接
