@@ -136,6 +136,13 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
 | [1034.边界着色](https://leetcode-cn.com/problems/coloring-a-border/)| [Solution](./algorithms/1034.边界着色.md) | 中等 | DFS,BFS | [Python](./python/1034.边界着色.py) |
 
+
+## 位运算
+| Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)| [Solution](./algorithms/709.转换成小写字母.md) | 简单 | 位运算 | [Python](./python/709.转换成小写字母py) |
+
+
 ## 参考链接
 
 [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
