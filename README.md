@@ -130,6 +130,10 @@
 
 [comment]: <> "| []&#40;&#41;| [Python]&#40;&#41; | 中等 | 排序 |"
 
+## 贪心
+| Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
+| [709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)| [Solution](./algorithms/709.转换成小写字母.md) | 简单 | 位运算 | [Python](./python/709.转换成小写字母.py) |
 
 
 ## 图论
@@ -141,7 +145,7 @@
 ## 位运算
 | Title                                                        | Solution                                                     | Difficulty | Types            | Codes       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- | ---------------- |
-| [709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)| [Solution](./algorithms/709.转换成小写字母.md) | 简单 | 位运算 | [Python](./python/709.转换成小写字母.py) |
+| [807.保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/)| [Solution](./algorithms/807.保持城市天际线.md) | 中等 | 贪心 | [Python](./python/807.保持城市天际线.py) |
 
 
 ## 参考链接
