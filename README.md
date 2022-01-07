@@ -18,7 +18,7 @@
 
 | Title                                                                   | Solution                                                                                                                                                               | Difficulty | Types      | Codes                                        |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | -------------------------------------------- |
-| [66.加一](https://leetcode-cn.com/problems/plus-one/)                   | [Solution](./algorithms/066.加一.md)                                                                | 简单       | 数组       | [Python](./python/066.加一.py)               |
+| [66.加一](https://leetcode-cn.com/problems/plus-one/)    | [Solution](./algorithms/066.加一.md) | 简单   | 数组 | [Python](./python/066.加一.py)               |
 | [724.寻找数组的中⼼下标](https://leetcode-cn.com/problems/rotate-array/) | [Solution](./algorithms/724.寻找数组的中⼼下标.md) | 简单   | 数组  | [Python](./python/724.寻找数组的中心下标.py) |
 | [189.旋转数组](https://leetcode-cn.com/problems/rotate-array/)         | [Solution](./algorithms/189.旋转数组.md)  | 中等       | 数组  | [Python](./python/189.旋转数组.py)           |
 | [48.旋转图像](https://leetcode-cn.com/problems/rotate-image/)           | [Solution](./algorithms/48.旋转图像.md)   | 中等       | 数组 | [Python](./python/48.旋转图像.py)            |
