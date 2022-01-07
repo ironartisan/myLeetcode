@@ -32,7 +32,7 @@
 
 | Title                                                                                                           | Solution                                                                                                                                                                                           | Difficulty | Types | Codes                                              |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | -------------------------------------------------- |
-| [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Solution](./algorithms/把数组排成最小的数.%20%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) | 中等       | 排序  | [Python](python/剑指Offer45.把数组排成最小的数.py) |
+| [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Solution](./algorithms/把数组排成最小的数.md) | 中等       | 排序  | [Python](python/剑指Offer45.把数组排成最小的数.py) |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solution](./algorithms/283.移动零.md)  | 简单   | 排序  | [Python](./python/283.移动零.py)     |
 | [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)  | [Solution](./algorithms/912.排序数组.md)  | 中等 | 排序  | [Python](./python/912.排序数组.py)  |
 | [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/)      | [Solution](./algorithms/506.相对名次.md)   | 中等 | 排序  | [Python](./python/506.相对名次.py)   |
@@ -56,7 +56,7 @@
 | [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/)   | [Solution](./algorithms/704.二分查找.md)   | 简单  | 二分查找 | [Python](./python/704.二分查找.py)                     |
 | [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  | [Solution](./algorithms/35.搜索插入位置.md)  | 简单 | 二分查找 | [Python](./python/35.搜索插入位置.py)                  |
 | [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Solution](./algorithms/374.猜数字大小.md)   | 简单 | 二分查找 | [Python](./python/374.猜数字大小.py)                   |
-| [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Solution](./algorithms/69.Sqrt(x).md) | 简单  | 二分查找 | [Python](./python/69.Sqrt(x).py)  |
+| [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [Solution](./algorithms/69.Sqrt.md) | 简单  | 二分查找 | [Python](./python/69.Sqrt(x).py)  |
 | [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./algorithms/167.两数之和II-输入有序数组.md)                     | 简单       | 二分查找 | [Python](./python/167.两数之和II-输入有序数组.py)   |
 | [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)  | [Solution](./algorithms/1011.在D天内送达包裹的能力.md)    | 中等       | 二分查找 | [Python](./python/1011.在D天内送达包裹的能力.py)   |
 | [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)| [Solution](./algorithms/278.第一个错误的版本.md) | 简单 | 二分查找 | [Python](./python/278.第一个错误的版本.py)             |
@@ -77,7 +77,7 @@
 | [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)   | [Solution](./algorithms/344.反转字符串.md) | 简单  | 双指针 | [Python](./python/344.反转字符串.py), [C++](./cPlus/344.反转字符串.cpp) |
 | [0015. 三数之和](https://leetcode-cn.com/problems/3sum/)   | [Solution](./algorithms/15.三数之和.md)   | 中等 | 双指针  | [Python](./python/15.三数之和.py)                                       |
 | [0026. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)       | [Solution](./algorithms/26.删除有序数组中的重复项.md)      | 简单       | 双指针         | [Python](./python/26.删除有序数组中的重复项.py)                         |
-| [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./algorithms/80.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md) | 中等       | 双指针         | [Python](./python/80.删除有序数组中的重复项II.py)                       |
+| [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./algorithms/80.删除有序数组中的重复项II.md) | 中等       | 双指针         | [Python](./python/80.删除有序数组中的重复项II.py)                       |
 | [0283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solution](./algorithms/283.移动零.md)  | 简单 | 双指针  | [Python](./python/283.移动零.py)   |
 | [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)  | [Solution](./algorithms/75.颜色分类.md)  | 中等   | 双指针  | [Python](./python/75.颜色分类.py)      |
 | [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)     | [Solution](./algorithms/88.合并两个有序数组.md)    | 简单       | 双指针         | [Python](./python/88.合并两个有序数组.py)         |
