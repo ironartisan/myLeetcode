@@ -50,7 +50,7 @@
 | Title                                                                       | Solution                                   | Difficulty | Types | Codes                                |
 | --------------------------------------------------------------------------- | ------------------------------------------ | ---------- | ----- | ------------------------------------ |
 | [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | 链表  | [Python](./python/0707.设计链表.py) |
-| [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/) | [Solution](./algorithms/xx.md) | 简单       | 链表 | [Python](./python/xx.py) |
+| [0206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Solution](./algorithms/xx.md) | 简单       | 链表 | [Python](./python/xx.py) |
 | [0203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Solution](./algorithms/xx.md) | 简单       | 链表  | [Python](./python/xx.py) |
 |[0328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Solution](./algorithms/xx.md) | 简单       | 链表  | [Python](./python/xx.py) |
 | [0234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Solution](./algorithms/xx.md) | 简单       | 链表  | [Python](./python/xx.py) |
