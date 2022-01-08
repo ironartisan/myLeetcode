@@ -111,7 +111,7 @@
 | [0133. 克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
 | [0494. 目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
 | [0841. 钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)                         | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/xx.md)            | 简单       | 模拟  | [Python](./python/xx.py)            |
+| [0695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
 | [0130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)                   | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
 | [0417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
 | [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)                     | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
