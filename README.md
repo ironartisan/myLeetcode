@@ -15,13 +15,13 @@
 - 第 01 ~ 02 天学习内容：
   - [链表基础知识](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/01.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
 - 第 01 天课程题目列表：
-  - [ ] [0707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
-  - [ ] [0206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
-  - [ ] [0203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+  - [ ] [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)
+  - [ ] [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+  - [ ] [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 - 第 02 天课程题目列表：
-  - [ ] [0328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
-  - [ ] [0234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
-  - [ ] [0138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+  - [ ] [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+  - [ ] [0234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+  - [ ] [0138.复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 - [更多链表基础题目](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/01.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/10.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E9%A2%98%E7%9B%AE/)
 
 
@@ -30,9 +30,9 @@
 - 第 03 天学习内容：
   - [链表排序](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/02.%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F/01.%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F/)
 - 第 03 天课程题目：
-  - [ ] [0148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
-  - [ ] [0021. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
-  - [ ] [0147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
+  - [ ] [0148.排序链表](https://leetcode-cn.com/problems/sort-list/)
+  - [ ] [0021.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+  - [ ] [0147.对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 - [更多链表排序题目](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/02.%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F/10.%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F%E9%A2%98%E7%9B%AE/)
 
 #### 01-03 链表双指针（1 天）
@@ -40,27 +40,27 @@
 - 第 04 天学习内容：
   - [链表双指针](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/03.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88/01.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88%E7%9F%A5%E8%AF%86/)
 - 第 04 天课程题目：
-  - [ ] [0141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
-  - [ ] [0142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
-  - [ ] [0019. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+  - [ ] [0141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+  - [ ] [0142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+  - [ ] [0019.删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 - [更多链表双指针题目](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/03.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88/10.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88%E9%A2%98%E7%9B%AE/)
 
 ## 链表
 
 | Title                                                                                                 | Solution                                  | Difficulty | Types | Codes                               |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | ----------------------------------- |
-| [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)                                 | [Solution](./algorithms/0707.设计链表.md) | 简单       | 链表  | [Python](./python/0707.设计链表.py) |
-| [0206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                               | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                   | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)                              | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)                            | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)         | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0148. 排序链表](https://leetcode-cn.com/problems/sort-list/)                                         | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0021. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                    | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)                     | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                                 | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                           | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
-| [0019. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./python/xx.py)            |
+| [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)                                 | [Solution](./algorithms/0707.设计链表.md) | 简单       | 链表  | [Python](./cPlus/0707.设计链表.cpp) |
+| [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                               | [Solution](./algorithms/0206.反转链表.md)            | 简单       | 链表  | [Python](./cPlus/0206.反转链表.cpp)            |
+| [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                   | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)                              | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)                            | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0138.复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)         | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0148.排序链表](https://leetcode-cn.com/problems/sort-list/)                                         | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0021.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                    | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0147.对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)                     | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                                 | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                           | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
+| [0019.删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [Python](./cPlus/xx.cpp)            |
 
 
 ### Task 02：堆栈与深度优先搜索（5 天）
@@ -70,13 +70,13 @@
 - 第 05 ~ 06 天学习内容：
   - [堆栈基础知识](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/01.%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
 - 第 05 天课程题目：
-  - [ ] [0155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
-  - [ ] [0020. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
-  - [ ] [0227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
+  - [ ] [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)
+  - [ ] [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+  - [ ] [0227.基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 - 第 06 天课程题目：
-  - [ ] [0150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
-  - [ ] [0394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
-  - [ ] [0946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)
+  - [ ] [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+  - [ ] [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)
+  - [ ] [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)
 - [更多堆栈基础知识相关题目](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/01.%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/10.%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E9%A2%98%E7%9B%AE/)
 
 #### 02-02 栈与深度优先搜索（3 天）
@@ -84,56 +84,56 @@
 - 第 07 ~ 09 天学习内容：
   - [栈与深度优先搜索](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/02.%E5%A0%86%E6%A0%88%E4%B8%8E%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/01.%E5%A0%86%E6%A0%88%E4%B8%8E%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E7%9F%A5%E8%AF%86/)
 - 第 07 天课程题目：
-  - [ ] [0200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
-  - [ ] [0133. 克隆图](https://leetcode-cn.com/problems/clone-graph/)
-  - [ ] [0494. 目标和](https://leetcode-cn.com/problems/target-sum/)
+  - [ ] [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+  - [ ] [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)
+  - [ ] [0494.目标和](https://leetcode-cn.com/problems/target-sum/)
 - 第 08 天课程题目：
-  - [ ] [0841. 钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)
-  - [ ] [0695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
-  - [ ] [0130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
+  - [ ] [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)
+  - [ ] [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+  - [ ] [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
 - 第 09 天课程题目：
-  - [ ] [0417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
-  - [ ] [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
-  - [ ] [1254. 统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)
+  - [ ] [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
+  - [ ] [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
+  - [ ] [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)
 - [更多栈与深度优先搜索题目](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/02.%E5%A0%86%E6%A0%88%E4%B8%8E%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/10.%E5%A0%86%E6%A0%88%E4%B8%8E%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E9%A2%98%E7%9B%AE/)
 
 ## 堆栈与深度优先搜索
 
 | Title                                                                                        | Solution                                  | Difficulty | Types | Codes                               |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | ----------------------------------- |
-| [0155. 最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/0707.设计链表.md) | 简单       | 堆栈  | [Python](./python/0707.设计链表.py) |
-| [0020. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                      | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)                          | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)               | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                        | [Solution](./algorithms/0707.设计链表.md) | 简单       | 堆栈  | [Python](./python/0707.设计链表.py) |
-| [0133. 克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0494. 目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0841. 钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)                         | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)                   | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [0417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)                     | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
-| [1254. 统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)       | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./python/xx.py)            |
+| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/[0155.最小栈.md) | 简单       | 堆栈  | [Python](./cPlus/[0155.最小栈.cpp) |
+| [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                      | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0227.基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)                          | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)               | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                        | [Solution](./algorithms/0707.设计链表.md) | 简单       | 堆栈  | [Python](./cPlus/xx.cpp) |
+| [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0494.目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)                         | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)                   | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)                     | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
+| [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)       | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [Python](./cPlus/xx.cpp)            |
 
 ### Task 03 单调栈（1 天）
 
 - 第 10 天学习内容：
   - [单调栈](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/03.%E5%8D%95%E8%B0%83%E6%A0%88/01.%E5%8D%95%E8%B0%83%E6%A0%88%E7%9F%A5%E8%AF%86/)
 - 第 10 天课程题目：
-  - [ ] [0496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
-  - [ ] [0739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
-  - [ ] [0316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+  - [ ] [0496.下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
+  - [ ] [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+  - [ ] [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 - [更多单调栈题目](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/03.%E5%8D%95%E8%B0%83%E6%A0%88/10.%E5%8D%95%E8%B0%83%E6%A0%88%E9%A2%98%E7%9B%AE/)
 
 ## 单调栈
 
 | Title                                                                              | Solution                                  | Difficulty | Types  | Codes                               |
 | ---------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ------ | ----------------------------------- |
-| [0496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | 单调栈 | [Python](./python/0707.设计链表.py) |
-| [0739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)             | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [Python](./python/xx.py)            |
-| [0316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)   | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [Python](./python/xx.py)            |
+| [0496.下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | 单调栈 | [Python](./python/0707.设计链表.py) |
+| [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)             | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [Python](./cPlus/xx.cpp)            |
+| [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)   | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [Python](./cPlus/xx.cpp)            |
 
 
 ### Task 04：队列与广度优先搜索（3 天）
@@ -143,9 +143,9 @@
 - 第 11 天学习内容：
   - [队列基础知识](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/01.%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
 - 第 11 天课程题目：
-  - [ ] [0622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
-  - [ ] [0346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)
-  - [ ] [0225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
+  - [ ] [0622.设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
+  - [ ] [0346.数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)
+  - [ ] [0225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 - [更多队列基础题目](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/01.%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/10.%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E9%A2%98%E7%9B%AE/)
 
 #### 04-02 队列与广度优先搜索（2 天）
@@ -153,36 +153,36 @@
 - 第 12 天学习内容：
   - [队列与广度优先搜索](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/02.%E9%98%9F%E5%88%97%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/01.%E9%98%9F%E5%88%97%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E7%9F%A5%E8%AF%86/)
 - 第 12 天课程题目：
-  - [ ] [0286. 墙与门](https://leetcode-cn.com/problems/walls-and-gates/)
-  - [ ] [0752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)
-  - [ ] [0279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
+  - [ ] [0286.墙与门](https://leetcode-cn.com/problems/walls-and-gates/)
+  - [ ] [0752.打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)
+  - [ ] [0279.完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
 - 第 13 天课程题目：
-  - [ ] [0542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)
-  - [ ] [0322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
-  - [ ] [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
+  - [ ] [0542.01 矩阵](https://leetcode-cn.com/problems/01-matrix/)
+  - [ ] [0322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+  - [ ] [剑指 Offer 13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
 - [更多队列与广度优先搜索题目](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/02.%E9%98%9F%E5%88%97%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/10.%E9%98%9F%E5%88%97%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E9%A2%98%E7%9B%AE/)
 
 ## 队列与广度优先搜索
 
 | Title                                                                                                   | Solution                                  | Difficulty | Types | Codes                               |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | ----------------------------------- |
-| [0622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)                           | [Solution](./algorithms/0707.设计链表.md) | 简单       | DFS   | [Python](./python/0707.设计链表.py) |
-| [0346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)         | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./python/xx.py)            |
-| [0225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)                    | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./python/xx.py)            |
-| [0752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)                                     | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./python/xx.py)            |
-| [0279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)                                   | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./python/xx.py)            |
-| [0542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)                                            | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./python/xx.py)            |
-| [0322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)                                         | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./python/xx.py)            |
-| [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./python/xx.py)            |
+| [0622.设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)                           | [Solution](./algorithms/0707.设计链表.md) | 简单       | DFS   | [Python](./python/0707.设计链表.py) |
+| [0346.数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)         | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./cPlus/xx.cpp)            |
+| [0225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)                    | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./cPlus/xx.cpp)            |
+| [0752.打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)                                     | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./cPlus/xx.cpp)            |
+| [0279.完全平方数](https://leetcode-cn.com/problems/perfect-squares/)                                   | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./cPlus/xx.cpp)            |
+| [0542.01 矩阵](https://leetcode-cn.com/problems/01-matrix/)                                            | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./cPlus/xx.cpp)            |
+| [0322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)                                         | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./cPlus/xx.cpp)            |
+| [剑指 Offer 13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [Python](./cPlus/xx.cpp)            |
 
 ### Task 05 优先队列（1 天）
 
 - 第 14 天学习内容：
   - [ ] [优先队列](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/03.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/01.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%E7%9F%A5%E8%AF%86/)
 - 第 14 天课程题目：
-  - [ ] [0215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
-  - [ ] [0347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
-  - [ ] [0451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
+  - [ ] [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+  - [ ] [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+  - [ ] [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
 - [更多优先队列题目](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/03.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/10.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%E9%A2%98%E7%9B%AE/)
 
 
@@ -190,9 +190,9 @@
 
 | Title                                                                                            | Solution                                  | Difficulty | Types | Codes                               |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------- | ---------- | ----- | ----------------------------------- |
-| [0215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | BFS   | [Python](./python/0707.设计链表.py) |
-| [0347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [Python](./python/xx.py)            |
-| [0451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [Python](./python/xx.py)            |
+| [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | BFS   | [Python](./python/0707.设计链表.py) |
+| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [Python](./cPlus/xx.cpp)            |
+| [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [Python](./cPlus/xx.cpp)            |
 
 # Leetcode 刷题课程第一期
 ## 模拟
@@ -210,8 +210,8 @@
 | [724.寻找数组的中⼼下标](https://leetcode-cn.com/problems/rotate-array/) | [Solution](./algorithms/724.寻找数组的中⼼下标.md) | 简单       | 数组       | [Python](./python/724.寻找数组的中心下标.py) |
 | [189.旋转数组](https://leetcode-cn.com/problems/rotate-array/)          | [Solution](./algorithms/189.旋转数组.md)          | 中等       | 数组       | [Python](./python/189.旋转数组.py)           |
 | [48.旋转图像](https://leetcode-cn.com/problems/rotate-image/)           | [Solution](./algorithms/48.旋转图像.md)           | 中等       | 数组       | [Python](./python/48.旋转图像.py)            |
-| [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)         | [Solution](./algorithms/54.螺旋矩阵.md)           | 中等       | 数组，模拟 | [Python](./python/54.螺旋矩阵.py)            |
-| [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)  | [Solution](./algorithms/498.对角线遍历.md)        | 中等       | 数组，模拟 | [Python](./python/498.对角线遍历.py)         |
+| [54.螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)         | [Solution](./algorithms/54.螺旋矩阵.md)           | 中等       | 数组，模拟 | [Python](./python/54.螺旋矩阵.py)            |
+| [498.对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)  | [Solution](./algorithms/498.对角线遍历.md)        | 中等       | 数组，模拟 | [Python](./python/498.对角线遍历.py)         |
 
 
 
@@ -220,18 +220,18 @@
 
 | Title                                                                                                           | Solution                                                 | Difficulty | Types | Codes                                              |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------- | ----- | -------------------------------------------------- |
-| [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Solution](./algorithms/把数组排成最小的数.md)           | 中等       | 排序  | [Python](python/剑指Offer45.把数组排成最小的数.py) |
-| [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)                                                    | [Solution](./algorithms/283.移动零.md)                   | 简单       | 排序  | [Python](./python/283.移动零.py)                   |
-| [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)                                                | [Solution](./algorithms/912.排序数组.md)                 | 中等       | 排序  | [Python](./python/912.排序数组.py)                 |
-| [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/)                                               | [Solution](./algorithms/506.相对名次.md)                 | 中等       | 排序  | [Python](./python/506.相对名次.py)                 |
-| [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)                             | [Solution](./algorithms/面试题10.01.合并排序的数组.md)   | 简单       | 排序  | [Python](./python/面试题10.01.合并排序的数组.py)   |
-| [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)               | [Solution](./algorithms/剑指Offer51.数组中的逆序对.md)   | 困难       | 排序  | [Python](./python/剑指Offer51.数组中的逆序对.py)   |
-| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)                                                   | [Solution](./algorithms/75.颜色分类.md)                  | 中等       | 排序  | [Python](./python/75.颜色分类.py)                  |
-| [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)                 | [Solution](./algorithms/215.数组中的第K个最大元素.md)    | 中等       | 排序  | [Python](./python/215.数组中的第K个最大元素.py)    |
-| [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)                        | [Solution](./algorithms/剑指Offer40.最小的k个数.md)      | 简单       | 排序  | [Python](./python/剑指Offer40.最小的k个数.py)      |
-| [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)                                   | [Solution](./algorithms/1122.数组的相对排序.md)          | 简单       | 排序  | [Python](./python/1122.数组的相对排序.py)          |
-| [908. 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                           | [Solution](./algorithms/908.最小差值I.md)                | 简单       | 排序  | [Python](./python/908.最小差值I.py)                |
-| [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)                                                  | [Solution](./algorithms/164.最大间距.md)                 | 困难       | 排序  | [Python](./python/164.最大间距.py)                 |
+| [剑指 Offer 45.把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [Solution](./algorithms/把数组排成最小的数.md)           | 中等       | 排序  | [Python](python/剑指Offer45.把数组排成最小的数.py) |
+| [283.移动零](https://leetcode-cn.com/problems/move-zeroes/)                                                    | [Solution](./algorithms/283.移动零.md)                   | 简单       | 排序  | [Python](./python/283.移动零.py)                   |
+| [912.排序数组](https://leetcode-cn.com/problems/sort-an-array/)                                                | [Solution](./algorithms/912.排序数组.md)                 | 中等       | 排序  | [Python](./python/912.排序数组.py)                 |
+| [506.相对名次](https://leetcode-cn.com/problems/relative-ranks/)                                               | [Solution](./algorithms/506.相对名次.md)                 | 中等       | 排序  | [Python](./python/506.相对名次.py)                 |
+| [面试题 10.01.合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)                             | [Solution](./algorithms/面试题10.01.合并排序的数组.md)   | 简单       | 排序  | [Python](./python/面试题10.01.合并排序的数组.py)   |
+| [剑指 Offer 51.数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)               | [Solution](./algorithms/剑指Offer51.数组中的逆序对.md)   | 困难       | 排序  | [Python](./python/剑指Offer51.数组中的逆序对.py)   |
+| [75.颜色分类](https://leetcode-cn.com/problems/sort-colors/)                                                   | [Solution](./algorithms/75.颜色分类.md)                  | 中等       | 排序  | [Python](./python/75.颜色分类.py)                  |
+| [215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)                 | [Solution](./algorithms/215.数组中的第K个最大元素.md)    | 中等       | 排序  | [Python](./python/215.数组中的第K个最大元素.py)    |
+| [剑指 Offer 40.最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)                        | [Solution](./algorithms/剑指Offer40.最小的k个数.md)      | 简单       | 排序  | [Python](./python/剑指Offer40.最小的k个数.py)      |
+| [1122.数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)                                   | [Solution](./algorithms/1122.数组的相对排序.md)          | 简单       | 排序  | [Python](./python/1122.数组的相对排序.py)          |
+| [908.最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                           | [Solution](./algorithms/908.最小差值I.md)                | 简单       | 排序  | [Python](./python/908.最小差值I.py)                |
+| [164.最大间距](https://leetcode-cn.com/problems/maximum-gap/)                                                  | [Solution](./algorithms/164.最大间距.md)                 | 困难       | 排序  | [Python](./python/164.最大间距.py)                 |
 | [786.第 K 个最小的素数分数](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)                     | [Solution](./algorithms/786.第K个最小的素数分数.md)      | 困难       | 排序  | [Python](./python/786.第K个最小的素数分数.py)      |
 | [1005.K次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)       | [Solution](./algorithms/1005.K次取反后最大化的数组和.md) | 简单       | 排序  | [Python](./python/1005.K次取反后最大化的数组和.py) |
 
@@ -241,18 +241,18 @@
 
 | Title                                                                                                           | Solution                                                     | Difficulty | Types    | Codes                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | -------- | ------------------------------------------------------ |
-| [0704. 二分查找](https://leetcode-cn.com/problems/binary-search/)                                               | [Solution](./algorithms/704.二分查找.md)                     | 简单       | 二分查找 | [Python](./python/704.二分查找.py)                     |
-| [0035. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)                                  | [Solution](./algorithms/35.搜索插入位置.md)                  | 简单       | 二分查找 | [Python](./python/35.搜索插入位置.py)                  |
-| [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)                              | [Solution](./algorithms/374.猜数字大小.md)                   | 简单       | 二分查找 | [Python](./python/374.猜数字大小.py)                   |
-| [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)                                                        | [Solution](./algorithms/69.Sqrt.md)                          | 简单       | 二分查找 | [Python](./python/69.Sqrt(x).py)                       |
-| [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)          | [Solution](./algorithms/167.两数之和II-输入有序数组.md)      | 简单       | 二分查找 | [Python](./python/167.两数之和II-输入有序数组.py)      |
-| [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)      | [Solution](./algorithms/1011.在D天内送达包裹的能力.md)       | 中等       | 二分查找 | [Python](./python/1011.在D天内送达包裹的能力.py)       |
-| [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)                                   | [Solution](./algorithms/278.第一个错误的版本.md)             | 简单       | 二分查找 | [Python](./python/278.第一个错误的版本.py)             |
-| [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)                      | [Solution](./algorithms/33.搜索旋转排序数组.md)              | 中等       | 二分查找 | [Python](./python/33.搜索旋转排序数组.py)              |
-| [0153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)      | [Solution](./algorithms/153.寻找旋转排序数组中的最小值.md)   | 中等       | 二分查找 | [Python](./python/153.寻找旋转排序数组中的最小值.py)   |
-| [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)                  | [Solution](./algorithms/81.搜索旋转排序数组II.md)            | 中等       | 二分查找 | [Python](./python/81.搜索旋转排序数组II.py)            |
-| [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./algorithms/154.寻找旋转排序数组中的最小值II.md) | 困难       | 二分查找 | [Python](./python/154.寻找旋转排序数组中的最小值II.py) |
-| [875. 爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)                                    | [Solution](./algorithms/875.爱吃香蕉的珂珂.md)               | 中等       | 二分查找 | [Python](./python/875.爱吃香蕉的珂珂.py)               |
+| [0704.二分查找](https://leetcode-cn.com/problems/binary-search/)                                               | [Solution](./algorithms/704.二分查找.md)                     | 简单       | 二分查找 | [Python](./python/704.二分查找.py)                     |
+| [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)                                  | [Solution](./algorithms/35.搜索插入位置.md)                  | 简单       | 二分查找 | [Python](./python/35.搜索插入位置.py)                  |
+| [0374.猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)                              | [Solution](./algorithms/374.猜数字大小.md)                   | 简单       | 二分查找 | [Python](./python/374.猜数字大小.py)                   |
+| [0069.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)                                                        | [Solution](./algorithms/69.Sqrt.md)                          | 简单       | 二分查找 | [Python](./python/69.Sqrt(x).py)                       |
+| [0167.两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)          | [Solution](./algorithms/167.两数之和II-输入有序数组.md)      | 简单       | 二分查找 | [Python](./python/167.两数之和II-输入有序数组.py)      |
+| [1011.在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)      | [Solution](./algorithms/1011.在D天内送达包裹的能力.md)       | 中等       | 二分查找 | [Python](./python/1011.在D天内送达包裹的能力.py)       |
+| [0278.第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)                                   | [Solution](./algorithms/278.第一个错误的版本.md)             | 简单       | 二分查找 | [Python](./python/278.第一个错误的版本.py)             |
+| [0033.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)                      | [Solution](./algorithms/33.搜索旋转排序数组.md)              | 中等       | 二分查找 | [Python](./python/33.搜索旋转排序数组.py)              |
+| [0153.寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)      | [Solution](./algorithms/153.寻找旋转排序数组中的最小值.md)   | 中等       | 二分查找 | [Python](./python/153.寻找旋转排序数组中的最小值.py)   |
+| [81.搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)                  | [Solution](./algorithms/81.搜索旋转排序数组II.md)            | 中等       | 二分查找 | [Python](./python/81.搜索旋转排序数组II.py)            |
+| [154.寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./algorithms/154.寻找旋转排序数组中的最小值II.md) | 困难       | 二分查找 | [Python](./python/154.寻找旋转排序数组中的最小值II.py) |
+| [875.爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)                                    | [Solution](./algorithms/875.爱吃香蕉的珂珂.md)               | 中等       | 二分查找 | [Python](./python/875.爱吃香蕉的珂珂.py)               |
 | [1446.连续字符](https://leetcode-cn.com/problems/consecutive-characters/)                                       | [Solution](./algorithms/1446.连续字符.md)                    | 简单       | 二分查找 | [Python](./python/1446.连续字符.py)                    |
 | [911.在线选举](https://leetcode-cn.com/problems/online-election/)                                               | [Solution](./algorithms/911.在线选举.md)                     | 简单       | 二分查找 | [Python](./python/911.在线选举.py)                     |
 
@@ -261,18 +261,18 @@
 
 | Title                                                                                                       | Solution                                                   | Difficulty | Types          | Codes                                                                   |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- | -------------- | ----------------------------------------------------------------------- |
-| [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)                     | [Solution](./algorithms/594.最长和谐子序列.md)             | 简单       | 滑动窗口，排序 | [Python](./python/594.最长和谐子序列.py)                                |
-| [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)                                        | [Solution](./algorithms/344.反转字符串.md)                 | 简单       | 双指针         | [Python](./python/344.反转字符串.py), [C++](./cPlus/344.反转字符串.cpp) |
-| [0015. 三数之和](https://leetcode-cn.com/problems/3sum/)                                                    | [Solution](./algorithms/15.三数之和.md)                    | 中等       | 双指针         | [Python](./python/15.三数之和.py)                                       |
-| [0026. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)       | [Solution](./algorithms/26.删除有序数组中的重复项.md)      | 简单       | 双指针         | [Python](./python/26.删除有序数组中的重复项.py)                         |
-| [0080. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./algorithms/80.删除有序数组中的重复项II.md)    | 中等       | 双指针         | [Python](./python/80.删除有序数组中的重复项II.py)                       |
-| [0283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)                                               | [Solution](./algorithms/283.移动零.md)                     | 简单       | 双指针         | [Python](./python/283.移动零.py)                                        |
-| [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)                                             | [Solution](./algorithms/75.颜色分类.md)                    | 中等       | 双指针         | [Python](./python/75.颜色分类.py)                                       |
-| [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                              | [Solution](./algorithms/88.合并两个有序数组.md)            | 简单       | 双指针         | [Python](./python/88.合并两个有序数组.py)                               |
-| [0674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)       | [Solution](./algorithms/674.最长连续递增序列.md)           | 简单       | 双指针         | [Python](./python/674.最长连续递增序列.py)                              |
+| [594.最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)                     | [Solution](./algorithms/594.最长和谐子序列.md)             | 简单       | 滑动窗口，排序 | [Python](./python/594.最长和谐子序列.py)                                |
+| [0344.反转字符串](https://leetcode-cn.com/problems/reverse-string/)                                        | [Solution](./algorithms/344.反转字符串.md)                 | 简单       | 双指针         | [Python](./python/344.反转字符串.py), [C++](./cPlus/344.反转字符串.cpp) |
+| [0015.三数之和](https://leetcode-cn.com/problems/3sum/)                                                    | [Solution](./algorithms/15.三数之和.md)                    | 中等       | 双指针         | [Python](./python/15.三数之和.py)                                       |
+| [0026.删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)       | [Solution](./algorithms/26.删除有序数组中的重复项.md)      | 简单       | 双指针         | [Python](./python/26.删除有序数组中的重复项.py)                         |
+| [0080.删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./algorithms/80.删除有序数组中的重复项II.md)    | 中等       | 双指针         | [Python](./python/80.删除有序数组中的重复项II.py)                       |
+| [0283.移动零](https://leetcode-cn.com/problems/move-zeroes/)                                               | [Solution](./algorithms/283.移动零.md)                     | 简单       | 双指针         | [Python](./python/283.移动零.py)                                        |
+| [0075.颜色分类](https://leetcode-cn.com/problems/sort-colors/)                                             | [Solution](./algorithms/75.颜色分类.md)                    | 中等       | 双指针         | [Python](./python/75.颜色分类.py)                                       |
+| [0088.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                              | [Solution](./algorithms/88.合并两个有序数组.md)            | 简单       | 双指针         | [Python](./python/88.合并两个有序数组.py)                               |
+| [0674.最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)       | [Solution](./algorithms/674.最长连续递增序列.md)           | 简单       | 双指针         | [Python](./python/674.最长连续递增序列.py)                              |
 | [0485.最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                            | [Solution](./algorithms/485.最大连续1的个数.md)            | 简单       | 双指针         | [Python](./python/485.最大连续1的个数.py)                               |
-| [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)                     | [Solution](./algorithms/1004.最大连续1的个数III.md)        | 中等       | 双指针         | [Python](./python/1004.最大连续1的个数III.py)                           |
-| [0220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)                          | [Solution](./algorithms/220.存在重复元素III.md)            | 中等       | 滑动窗口       | [Python](./python/220.存在重复元素III.py)                               |
+| [1004.最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)                     | [Solution](./algorithms/1004.最大连续1的个数III.md)        | 中等       | 双指针         | [Python](./python/1004.最大连续1的个数III.py)                           |
+| [0220.存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)                          | [Solution](./algorithms/220.存在重复元素III.md)            | 中等       | 滑动窗口       | [Python](./python/220.存在重复元素III.py)                               |
 | [438.找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)           | [Solution](./algorithms/438.找到字符串中所有字母异位词.md) | 中等       | 滑动窗口       | [Python](./python/438.找到字符串中所有字母异位词.py)                    |
 
 ## 哈希表
@@ -293,7 +293,7 @@
 
 | Title                                                                   | Solution                                     | Difficulty | Types | Codes                                  |
 | ----------------------------------------------------------------------- | -------------------------------------------- | ---------- | ----- | -------------------------------------- |
-| [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [Solution](./algorithms/563.二叉树的坡度.md) | 简单       | 递归  | [Python](./python/563.二叉树的坡度.py) |
+| [563.二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [Solution](./algorithms/563.二叉树的坡度.md) | 简单       | 递归  | [Python](./python/563.二叉树的坡度.py) |
 
 
 ## 贪心
