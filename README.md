@@ -16,8 +16,8 @@
   - [链表基础知识](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/01.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
 - 第 01 天课程题目列表：
   - [ ] [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)
-  - [ ] [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
-  - [ ] [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+  - [x] [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+  - [x] [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 - 第 02 天课程题目列表：
   - [ ] [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
   - [ ] [0234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
@@ -47,20 +47,20 @@
 
 ## 链表
 
-| Title                                                                                                | Solution                                  | Difficulty | Types | Codes                            |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | -------------------------------- |
-| [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)                                | [Solution](./algorithms/0707.设计链表.md) | 简单       | 链表  | [C++](./cPlus/0707.设计链表.cpp) |
-| [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                               | [Solution](./algorithms/0206.反转链表.md) | 简单       | 链表  | [C++](./cPlus/0206.反转链表.cpp) |
-| [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                   | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)                              | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)                            | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0138.复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)         | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0148.排序链表](https://leetcode-cn.com/problems/sort-list/)                                         | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0021.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                    | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0147.对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)                     | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                                 | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                           | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
-| [0019.删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./algorithms/xx.md)            | 简单       | 链表  | [C++](./cPlus/xx.cpp)            |
+| Title                                                                                                | Solution                                      | Difficulty | Types | Codes                                |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------- | ---------- | ----- | ------------------------------------ |
+| [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)                                | [Solution](./algorithms/0707.设计链表.md)     | 简单       | 链表  | [C++](./cPlus/0707.设计链表.cpp)     |
+| [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                               | [Solution](./algorithms/0206.反转链表.md)     | 简单       | 链表  | [C++](./cPlus/0206.反转链表.cpp)     |
+| [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                   | [Solution](./algorithms/0203.移除链表元素.md) | 简单       | 链表  | [C++](./cPlus/0203.移除链表元素.cpp) |
+| [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)                              | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)                            | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0138.复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)         | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0148.排序链表](https://leetcode-cn.com/problems/sort-list/)                                         | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0021.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                    | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0147.对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)                     | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                                 | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                           | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0019.删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
 
 
 ### Task 02：堆栈与深度优先搜索（5 天）
