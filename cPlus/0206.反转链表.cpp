@@ -14,19 +14,35 @@ struct ListNode {
  
 // 递归法
 
+// class Solution {
+// public:
+//     ListNode* reverseList(ListNode* head) {
+//         if (!head || !head -> next) {
+//             return head;
+//         }
+//         ListNode* newHead = reverseList(head->next);
+//         head->next->next = head;
+//         head->next = nullptr;
+//         return newHead;
+//     }
+// };
+
+// 迭代法
+
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if (!head || !head -> next) {
-            return head;
+        ListNode* pre = nullptr;
+        ListNode* cur = head;
+        while(cur) {
+            ListNode* next = cur->next;
+            cur->next = pre;
+            pre = cur;
+            cur = next;
         }
-        ListNode* newHead = reverseList(head->next);
-        head->next->next = head;
-        head->next = nullptr;
-        return newHead;
+        return pre;
     }
 };
-
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
