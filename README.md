@@ -19,7 +19,7 @@
   - [x] [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
   - [x] [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 - 第 02 天课程题目列表：
-  - [ ] [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+  - [x] [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
   - [ ] [0234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
   - [ ] [0138.复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 - [更多链表基础题目](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/01.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/10.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E9%A2%98%E7%9B%AE/)
@@ -52,7 +52,7 @@
 | [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)                                | [Solution](./algorithms/0707.设计链表.md)     | 中等       | 链表  | [C++](./cPlus/0707.设计链表.cpp)     |
 | [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                               | [Solution](./algorithms/0206.反转链表.md)     | 简单       | 链表  | [C++](./cPlus/0206.反转链表.cpp)     |
 | [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                   | [Solution](./algorithms/0203.移除链表元素.md) | 简单       | 链表  | [C++](./cPlus/0203.移除链表元素.cpp) |
-| [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)                              | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
+| [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)                              | [Solution](./algorithms/0328.奇偶链表.md)     | 简单       | 链表  | [C++](./cPlus/0328.奇偶链表.cpp)     |
 | [0234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)                            | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
 | [0138.复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)         | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
 | [0148.排序链表](https://leetcode-cn.com/problems/sort-list/)                                         | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
@@ -129,11 +129,11 @@
 
 ## 单调栈
 
-| Title                                                                             | Solution                                  | Difficulty | Types  | Codes                               |
-| --------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ------ | ----------------------------------- |
-| [0496.下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | 单调栈 | [Python](./python/0707.设计链表.py) |
-| [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)             | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [C++](./cPlus/xx.cpp)               |
-| [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)   | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [C++](./cPlus/xx.cpp)               |
+| Title                                                                             | Solution                                  | Difficulty | Types  | Codes                 |
+| --------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ------ | --------------------- |
+| [0496.下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | 单调栈 | [C++](./cPlus/xx.cpp) |
+| [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)             | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [C++](./cPlus/xx.cpp) |
+| [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)   | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [C++](./cPlus/xx.cpp) |
 
 
 ### Task 04：队列与广度优先搜索（3 天）
@@ -164,16 +164,16 @@
 
 ## 队列与广度优先搜索
 
-| Title                                                                                                  | Solution                                  | Difficulty | Types | Codes                               |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ---------- | ----- | ----------------------------------- |
-| [0622.设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)                           | [Solution](./algorithms/0707.设计链表.md) | 简单       | DFS   | [Python](./python/0707.设计链表.py) |
-| [0346.数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)         | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp)               |
-| [0225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)                    | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp)               |
-| [0752.打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)                                     | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp)               |
-| [0279.完全平方数](https://leetcode-cn.com/problems/perfect-squares/)                                   | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp)               |
-| [0542.01 矩阵](https://leetcode-cn.com/problems/01-matrix/)                                            | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp)               |
-| [0322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)                                         | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp)               |
-| [剑指 Offer 13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp)               |
+| Title                                                                                                  | Solution                                  | Difficulty | Types | Codes                 |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ---------- | ----- | --------------------- |
+| [0622.设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)                           | [Solution](./algorithms/0707.设计链表.md) | 简单       | DFS   | [C++](./cPlus/xx.cpp) |
+| [0346.数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)         | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp) |
+| [0225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)                    | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp) |
+| [0752.打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)                                     | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp) |
+| [0279.完全平方数](https://leetcode-cn.com/problems/perfect-squares/)                                   | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp) |
+| [0542.01 矩阵](https://leetcode-cn.com/problems/01-matrix/)                                            | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp) |
+| [0322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)                                         | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp) |
+| [剑指 Offer 13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Solution](./algorithms/xx.md)            | 简单       | DFS   | [C++](./cPlus/xx.cpp) |
 
 ### Task 05 优先队列（1 天）
 
@@ -188,11 +188,11 @@
 
 ## 队列与广度优先搜索
 
-| Title                                                                                           | Solution                                  | Difficulty | Types | Codes                               |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | ----------------------------------- |
-| [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | BFS   | [Python](./python/0707.设计链表.py) |
-| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [C++](./cPlus/xx.cpp)               |
-| [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [C++](./cPlus/xx.cpp)               |
+| Title                                                                                           | Solution                                  | Difficulty | Types | Codes                 |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | --------------------- |
+| [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | BFS   | [C++](./cPlus/xx.cpp) |
+| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [C++](./cPlus/xx.cpp) |
+| [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [C++](./cPlus/xx.cpp) |
 
 # Leetcode 刷题课程第一期
 ## 模拟
