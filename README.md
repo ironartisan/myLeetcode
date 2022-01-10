@@ -15,7 +15,7 @@
 - 第 01 ~ 02 天学习内容：
   - [链表基础知识](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/01.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
 - 第 01 天课程题目列表：
-  - [ ] [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)
+  - [x] [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)
   - [x] [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
   - [x] [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 - 第 02 天课程题目列表：
@@ -49,7 +49,7 @@
 
 | Title                                                                                                | Solution                                      | Difficulty | Types | Codes                                |
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------- | ---------- | ----- | ------------------------------------ |
-| [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)                                | [Solution](./algorithms/0707.设计链表.md)     | 简单       | 链表  | [C++](./cPlus/0707.设计链表.cpp)     |
+| [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)                                | [Solution](./algorithms/0707.设计链表.md)     | 中等       | 链表  | [C++](./cPlus/0707.设计链表.cpp)     |
 | [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                               | [Solution](./algorithms/0206.反转链表.md)     | 简单       | 链表  | [C++](./cPlus/0206.反转链表.cpp)     |
 | [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                   | [Solution](./algorithms/0203.移除链表元素.md) | 简单       | 链表  | [C++](./cPlus/0203.移除链表元素.cpp) |
 | [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)                              | [Solution](./algorithms/xx.md)                | 简单       | 链表  | [C++](./cPlus/xx.cpp)                |
