@@ -1,13 +1,3 @@
 title: Leetcode刷题题解
 description: 记录个人的刷题过程
 
-remote_theme: rundocs/jekyll-rtd-theme
-
-readme_index:
-  with_frontmatter: true
-
-exclude:
-  - Makefile
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
