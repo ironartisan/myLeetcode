@@ -30,9 +30,9 @@
 - 第 03 天学习内容：
   - [链表排序](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/02.%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F/01.%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F/)
 - 第 03 天课程题目：
-  - [ ] [0148.排序链表](https://leetcode-cn.com/problems/sort-list/)
-  - [ ] [0021.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
-  - [ ] [0147.对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
+  - [x] [0148.排序链表](https://leetcode-cn.com/problems/sort-list/)
+  - [x] [0021.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+  - [x] [0147.对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 - [更多链表排序题目](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/02.%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F/10.%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F%E9%A2%98%E7%9B%AE/)
 
 #### 01-03 链表双指针（1 天）
@@ -40,8 +40,8 @@
 - 第 04 天学习内容：
   - [链表双指针](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/03.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88/01.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88%E7%9F%A5%E8%AF%86/)
 - 第 04 天课程题目：
-  - [ ] [0141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
-  - [ ] [0142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+  - [x] [0141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+  - [x] [0142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
   - [ ] [0019.删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 - [更多链表双指针题目](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/03.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88/10.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88%E9%A2%98%E7%9B%AE/)
 
