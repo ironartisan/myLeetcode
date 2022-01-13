@@ -1,10 +1,10 @@
 # myLeetcode
-最近参与Datawhale组织的[Leetcode组队学习](https://github.com/itcharge/LeetCode-Py) ，
+最近参与Datawhale组织的[LeetCode组队学习](https://github.com/itcharge/LeetCode-Py) ，
 所以也想记录下自己解题的过程，后续还将继续完善其他语言版本的题解。
 第二期我又来了，哈哈哈。
-# Leetcode 刷题课程第二期
+# LeetCode 刷题课程第二期
 ## 任务
-[Leetcode 刷题课程第二期](https://github.com/itcharge/LeetCode-Py/blob/main/Assets/Course/Course-02.md)
+[LeetCode 刷题课程第二期](https://github.com/itcharge/LeetCode-Py/blob/main/Assets/Course/Course-02.md)
 
 ## 课程大纲
 
