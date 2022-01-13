@@ -42,7 +42,7 @@
 - 第 04 天课程题目：
   - [x] [0141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
   - [x] [0142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
-  - [ ] [0019.删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+  - [x] [0019.删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 - [更多链表双指针题目](https://algo.itcharge.cn/02.%E9%93%BE%E8%A1%A8/03.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88/10.%E9%93%BE%E8%A1%A8%E5%8F%8C%E6%8C%87%E9%92%88%E9%A2%98%E7%9B%AE/)
 
 ## 链表
@@ -60,7 +60,7 @@
 | [0147.对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)                   | [Solution](./algorithms/0147.对链表进行插入排序.md)      | 中等       | 链表  | [C++](./cPlus/0147.对链表进行插入排序.cpp)      |
 | [0141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                               | [Solution](./algorithms/0141.环形链表.md)                | 简单       | 链表  | [C++](./cPlus/0141.环形链表.cpp)                |
 | [0142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                          | [Solution](./algorithms/0142.环形链表II.md)              | 简单       | 链表  | [C++](./cPlus/0142.环形链表II.cpp)              |
-| [0019.删除链表的倒数第N个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./algorithms/0019.删除链表的倒数第N个结点.md) | 简单       | 链表  | [C++](./cPlus/0019.删除链表的倒数第N个结点.cpp) |
+| [0019.删除链表的倒数第N个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./algorithms/0019.删除链表的倒数第N个结点.md) | 中等       | 链表  | [C++](./cPlus/0019.删除链表的倒数第N个结点.cpp) |
 
 
 ### Task 02：堆栈与深度优先搜索（5 天）
