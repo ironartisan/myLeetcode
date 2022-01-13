@@ -51,6 +51,7 @@
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------- | ----- | ----------------------------------------------- |
 | [0707.设计链表](https://leetcode-cn.com/problems/design-linked-list/)                              | [Solution](./algorithms/0707.设计链表.md)                | 中等       | 链表  | [C++](./cPlus/0707.设计链表.cpp)                |
 | [0206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                             | [Solution](./algorithms/0206.反转链表.md)                | 简单       | 链表  | [C++](./cPlus/0206.反转链表.cpp)                |
+| [0092.反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)                        | [Solution](./algorithms/0092.反转链表II.md)              | 简单       | 链表  | [C++](./cPlus/0092.反转链表II.cpp)              |
 | [0203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                 | [Solution](./algorithms/0203.移除链表元素.md)            | 简单       | 链表  | [C++](./cPlus/0203.移除链表元素.cpp)            |
 | [0328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)                            | [Solution](./algorithms/0328.奇偶链表.md)                | 简单       | 链表  | [C++](./cPlus/0328.奇偶链表.cpp)                |
 | [0234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)                          | [Solution](./algorithms/0234.回文链表.md)                | 简单       | 链表  | [C++](./cPlus/0234.回文链表.cpp)                |
@@ -99,23 +100,23 @@
 
 ## 堆栈与深度优先搜索
 
-| Title                                                                                       | Solution                                  | Difficulty | Types | Codes                           |
-| ------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | ------------------------------- |
-| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/[0155.最小栈.md)  | 简单       | 堆栈  | [C++](./cPlus/[0155.最小栈.cpp) |
-| [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                      | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0227.基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)                          | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)               | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                        | [Solution](./algorithms/0707.设计链表.md) | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0494.目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)                         | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)                   | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)                     | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
-| [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)       | [Solution](./algorithms/xx.md)            | 简单       | 堆栈  | [C++](./cPlus/xx.cpp)           |
+| Title                                                                                       | Solution                                              | Difficulty | Types | Codes                                        |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | ----- | -------------------------------------------- |
+| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/[0155.最小栈.md)              | 简单       | 堆栈  | [C++](./cPlus/[0155.最小栈.cpp)              |
+| [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                      | [Solution](./algorithms/0020.有效的括号.md)           | 简单       | 堆栈  | [C++](./cPlus/0020.有效的括号.cpp)           |
+| [0227.基本计算器II](https://leetcode-cn.com/problems/basic-calculator-ii/)                  | [Solution](./algorithms/0227.基本计算器II.md)         | 简单       | 堆栈  | [C++](./cPlus/0227.基本计算器II.cpp)         |
+| [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/0150.逆波兰表达式求值.md)     | 简单       | 堆栈  | [C++](./cPlus/0150.逆波兰表达式求值.cpp)     |
+| [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)                          | [Solution](./algorithms/0394.字符串解码.md)           | 简单       | 堆栈  | [C++](./cPlus/0394.字符串解码.cpp)           |
+| [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)               | [Solution](./algorithms/0946.验证栈序列.md)           | 简单       | 堆栈  | [C++](./cPlus/0946.验证栈序列.cpp)           |
+| [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                        | [Solution](./algorithms/0200.岛屿数量.md)             | 简单       | 堆栈  | [C++](./cPlus/0200.岛屿数量.cpp)             |
+| [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/0133.克隆图.md)               | 简单       | 堆栈  | [C++](./cPlus/0133.克隆图.cpp)               |
+| [0494.目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/0494.目标和.md)               | 简单       | 堆栈  | [C++](./cPlus/0494.目标和.cpp)               |
+| [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)                         | [Solution](./algorithms/0841.钥匙和房间.md)           | 简单       | 堆栈  | [C++](./cPlus/0841.钥匙和房间.cpp)           |
+| [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/0695.岛屿的最大面积.md)       | 简单       | 堆栈  | [C++](./cPlus/0695.岛屿的最大面积.cpp)       |
+| [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)                   | [Solution](./algorithms/0130.被围绕的区域.md)         | 简单       | 堆栈  | [C++](./cPlus/0130.被围绕的区域.cpp)         |
+| [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | [Solution](./algorithms/0417.太平洋大西洋水流问题.md) | 简单       | 堆栈  | [C++](./cPlus/0417.太平洋大西洋水流问题.cpp) |
+| [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)                     | [Solution](./algorithms/1020.飞地的数量.md)           | 简单       | 堆栈  | [C++](./cPlus/1020.飞地的数量.cpp)           |
+| [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)       | [Solution](./algorithms/1254.统计封闭岛屿的数目.md)   | 简单       | 堆栈  | [C++](./cPlus/1254.统计封闭岛屿的数目.cpp)   |
 
 ### Task 03 单调栈（1 天）
 
@@ -129,11 +130,11 @@
 
 ## 单调栈
 
-| Title                                                                             | Solution                                  | Difficulty | Types  | Codes                 |
-| --------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ------ | --------------------- |
-| [0496.下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | 单调栈 | [C++](./cPlus/xx.cpp) |
-| [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)             | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [C++](./cPlus/xx.cpp) |
-| [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)   | [Solution](./algorithms/xx.md)            | 简单       | 单调栈 | [C++](./cPlus/xx.cpp) |
+| Title                                                                            | Solution                                         | Difficulty | Types  | Codes                                   |
+| -------------------------------------------------------------------------------- | ------------------------------------------------ | ---------- | ------ | --------------------------------------- |
+| [0496.下一个更大元素I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Solution](./algorithms/0496.下一个更大元素I.md) | 简单       | 单调栈 | [C++](./cPlus/0496.下一个更大元素I.cpp) |
+| [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)            | [Solution](./algorithms/0739.每日温度.md)        | 简单       | 单调栈 | [C++](./cPlus/0739.每日温度.cpp)        |
+| [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)  | [Solution](./algorithms/0316.去除重复字母.md)    | 简单       | 单调栈 | [C++](./cPlus/0316.去除重复字母.cpp)    |
 
 
 ### Task 04：队列与广度优先搜索（3 天）
