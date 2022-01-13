@@ -320,10 +320,8 @@
 
 ## 参考链接
 
-[LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+感谢以下大佬的题解，帮助我在算法上的学习。
 
-[每日一题](https://leetcode-cn.com/problemset/all/)
-
-[LeetCode-master](https://github.com/youngyangyang04/leetcode-master)
-
-[宫水三叶题解](https://leetcode-cn.com/u/ac_oier/)
+* [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+* [代码随想录](https://github.com/youngyangyang04/leetcode-master)
+* [宫水三叶题解](https://leetcode-cn.com/u/ac_oier/)
