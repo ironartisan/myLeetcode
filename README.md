@@ -73,9 +73,9 @@
 - 第 05 ~ 06 天学习内容：
   - [堆栈基础知识](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/01.%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
 - 第 05 天课程题目：
-  - [ ] [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)
-  - [ ] [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
-  - [ ] [0227.基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
+  - [x] [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)
+  - [x] [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+  - [x] [0227.基本计算器II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 - 第 06 天课程题目：
   - [ ] [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
   - [ ] [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)
