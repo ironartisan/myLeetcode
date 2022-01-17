@@ -79,7 +79,7 @@
 - 第 06 天课程题目：
   - [x] [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
   - [x] [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)
-  - [ ] [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)
+  - [x] [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)
 - [更多堆栈基础知识相关题目](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/01.%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/10.%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E9%A2%98%E7%9B%AE/)
 
 #### 02-02 栈与深度优先搜索（3 天）
