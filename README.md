@@ -104,7 +104,7 @@
 
 | Title                                                                                       | Solution                                              | Difficulty | Types | Codes                                        |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | ----- | -------------------------------------------- |
-| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/0155.最小栈.md)              | 简单       | 堆栈  | [C++](./cPlus/[0155.最小栈.cpp)              |
+| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/0155.最小栈.md)              | 简单       | 堆栈  | [C++](./cPlus/0155.最小栈.cpp)              |
 | [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                      | [Solution](./algorithms/0020.有效的括号.md)           | 简单       | 堆栈  | [C++](./cPlus/0020.有效的括号.cpp)           |
 | [0227.基本计算器II](https://leetcode-cn.com/problems/basic-calculator-ii/)                  | [Solution](./algorithms/0227.基本计算器II.md)         | 中等       | 堆栈  | [C++](./cPlus/0227.基本计算器II.cpp)         |
 | [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/0150.逆波兰表达式求值.md)     | 中等       | 堆栈  | [C++](./cPlus/0150.逆波兰表达式求值.cpp)     |
