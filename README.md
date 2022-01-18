@@ -104,12 +104,12 @@
 
 | Title                                                                                       | Solution                                              | Difficulty | Types | Codes                                        |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | ----- | -------------------------------------------- |
-| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/[0155.最小栈.md)              | 简单       | 堆栈  | [C++](./cPlus/[0155.最小栈.cpp)              |
+| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/0155.最小栈.md)              | 简单       | 堆栈  | [C++](./cPlus/[0155.最小栈.cpp)              |
 | [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                      | [Solution](./algorithms/0020.有效的括号.md)           | 简单       | 堆栈  | [C++](./cPlus/0020.有效的括号.cpp)           |
-| [0227.基本计算器II](https://leetcode-cn.com/problems/basic-calculator-ii/)                  | [Solution](./algorithms/0227.基本计算器II.md)         | 简单       | 堆栈  | [C++](./cPlus/0227.基本计算器II.cpp)         |
-| [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/0150.逆波兰表达式求值.md)     | 简单       | 堆栈  | [C++](./cPlus/0150.逆波兰表达式求值.cpp)     |
-| [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)                          | [Solution](./algorithms/0394.字符串解码.md)           | 简单       | 堆栈  | [C++](./cPlus/0394.字符串解码.cpp)           |
-| [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)               | [Solution](./algorithms/0946.验证栈序列.md)           | 简单       | 堆栈  | [C++](./cPlus/0946.验证栈序列.cpp)           |
+| [0227.基本计算器II](https://leetcode-cn.com/problems/basic-calculator-ii/)                  | [Solution](./algorithms/0227.基本计算器II.md)         | 中等       | 堆栈  | [C++](./cPlus/0227.基本计算器II.cpp)         |
+| [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/0150.逆波兰表达式求值.md)     | 中等       | 堆栈  | [C++](./cPlus/0150.逆波兰表达式求值.cpp)     |
+| [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)                          | [Solution](./algorithms/0394.字符串解码.md)           | 中等       | 堆栈  | [C++](./cPlus/0394.字符串解码.cpp)           |
+| [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)               | [Solution](./algorithms/0946.验证栈序列.md)           | 中等       | 堆栈  | [C++](./cPlus/0946.验证栈序列.cpp)           |
 | [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                        | [Solution](./algorithms/0200.岛屿数量.md)             | 简单       | 堆栈  | [C++](./cPlus/0200.岛屿数量.cpp)             |
 | [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/0133.克隆图.md)               | 简单       | 堆栈  | [C++](./cPlus/0133.克隆图.cpp)               |
 | [0494.目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/0494.目标和.md)               | 简单       | 堆栈  | [C++](./cPlus/0494.目标和.cpp)               |
