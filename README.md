@@ -104,7 +104,7 @@
 
 | Title                                                                                       | Solution                                              | Difficulty | Types | Codes                                        |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | ----- | -------------------------------------------- |
-| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/0155.最小栈.md)              | 简单       | 堆栈  | [C++](./cPlus/0155.最小栈.cpp)              |
+| [0155.最小栈](https://leetcode-cn.com/problems/min-stack/)                                  | [Solution](./algorithms/0155.最小栈.md)               | 简单       | 堆栈  | [C++](./cPlus/0155.最小栈.cpp)               |
 | [0020.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                      | [Solution](./algorithms/0020.有效的括号.md)           | 简单       | 堆栈  | [C++](./cPlus/0020.有效的括号.cpp)           |
 | [0227.基本计算器II](https://leetcode-cn.com/problems/basic-calculator-ii/)                  | [Solution](./algorithms/0227.基本计算器II.md)         | 中等       | 堆栈  | [C++](./cPlus/0227.基本计算器II.cpp)         |
 | [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/0150.逆波兰表达式求值.md)     | 中等       | 堆栈  | [C++](./cPlus/0150.逆波兰表达式求值.cpp)     |
@@ -125,8 +125,8 @@
 - 第 10 天学习内容：
   - [单调栈](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/03.%E5%8D%95%E8%B0%83%E6%A0%88/01.%E5%8D%95%E8%B0%83%E6%A0%88%E7%9F%A5%E8%AF%86/)
 - 第 10 天课程题目：
-  - [ ] [0496.下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
-  - [ ] [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+  - [x] [0496.下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
+  - [x] [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
   - [ ] [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 - [更多单调栈题目](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/03.%E5%8D%95%E8%B0%83%E6%A0%88/10.%E5%8D%95%E8%B0%83%E6%A0%88%E9%A2%98%E7%9B%AE/)
 
@@ -135,8 +135,8 @@
 | Title                                                                            | Solution                                         | Difficulty | Types  | Codes                                   |
 | -------------------------------------------------------------------------------- | ------------------------------------------------ | ---------- | ------ | --------------------------------------- |
 | [0496.下一个更大元素I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Solution](./algorithms/0496.下一个更大元素I.md) | 简单       | 单调栈 | [C++](./cPlus/0496.下一个更大元素I.cpp) |
-| [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)            | [Solution](./algorithms/0739.每日温度.md)        | 简单       | 单调栈 | [C++](./cPlus/0739.每日温度.cpp)        |
-| [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)  | [Solution](./algorithms/0316.去除重复字母.md)    | 简单       | 单调栈 | [C++](./cPlus/0316.去除重复字母.cpp)    |
+| [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)            | [Solution](./algorithms/0739.每日温度.md)        | 中等       | 单调栈 | [C++](./cPlus/0739.每日温度.cpp)        |
+| [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)  | [Solution](./algorithms/0316.去除重复字母.md)    | 中等       | 单调栈 | [C++](./cPlus/0316.去除重复字母.cpp)    |
 
 
 ### Task 04：队列与广度优先搜索（3 天）
