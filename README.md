@@ -87,9 +87,9 @@
 - 第 07 ~ 09 天学习内容：
   - [栈与深度优先搜索](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/02.%E5%A0%86%E6%A0%88%E4%B8%8E%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/01.%E5%A0%86%E6%A0%88%E4%B8%8E%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E7%9F%A5%E8%AF%86/)
 - 第 07 天课程题目：
-  - [ ] [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
-  - [ ] [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)
-  - [ ] [0494.目标和](https://leetcode-cn.com/problems/target-sum/)
+  - [x] [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+  - [x] [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)
+  - [x] [0494.目标和](https://leetcode-cn.com/problems/target-sum/)
 - 第 08 天课程题目：
   - [ ] [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)
   - [ ] [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
@@ -110,10 +110,10 @@
 | [0150.逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution](./algorithms/0150.逆波兰表达式求值.md)     | 中等       | 堆栈  | [C++](./cPlus/0150.逆波兰表达式求值.cpp)     |
 | [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)                          | [Solution](./algorithms/0394.字符串解码.md)           | 中等       | 堆栈  | [C++](./cPlus/0394.字符串解码.cpp)           |
 | [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)               | [Solution](./algorithms/0946.验证栈序列.md)           | 中等       | 堆栈  | [C++](./cPlus/0946.验证栈序列.cpp)           |
-| [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                        | [Solution](./algorithms/0200.岛屿数量.md)             | 简单       | 堆栈  | [C++](./cPlus/0200.岛屿数量.cpp)             |
-| [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/0133.克隆图.md)               | 简单       | 堆栈  | [C++](./cPlus/0133.克隆图.cpp)               |
-| [0494.目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/0494.目标和.md)               | 简单       | 堆栈  | [C++](./cPlus/0494.目标和.cpp)               |
-| [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)                         | [Solution](./algorithms/0841.钥匙和房间.md)           | 简单       | 堆栈  | [C++](./cPlus/0841.钥匙和房间.cpp)           |
+| [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                        | [Solution](./algorithms/0200.岛屿数量.md)             | 中等       | 堆栈  | [C++](./cPlus/0200.岛屿数量.cpp)             |
+| [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/0133.克隆图.md)               | 中等       | 堆栈  | [C++](./cPlus/0133.克隆图.cpp)               |
+| [0494.目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/0494.目标和.md)               | 中等       | 堆栈  | [C++](./cPlus/0494.目标和.cpp)               |
+| [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)                         | [Solution](./algorithms/0841.钥匙和房间.md)           | 中等       | 堆栈  | [C++](./cPlus/0841.钥匙和房间.cpp)           |
 | [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/0695.岛屿的最大面积.md)       | 简单       | 堆栈  | [C++](./cPlus/0695.岛屿的最大面积.cpp)       |
 | [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)                   | [Solution](./algorithms/0130.被围绕的区域.md)         | 简单       | 堆栈  | [C++](./cPlus/0130.被围绕的区域.cpp)         |
 | [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | [Solution](./algorithms/0417.太平洋大西洋水流问题.md) | 简单       | 堆栈  | [C++](./cPlus/0417.太平洋大西洋水流问题.cpp) |
@@ -127,7 +127,7 @@
 - 第 10 天课程题目：
   - [x] [0496.下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
   - [x] [0739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
-  - [ ] [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+  - [x] [0316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
 - [更多单调栈题目](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/03.%E5%8D%95%E8%B0%83%E6%A0%88/10.%E5%8D%95%E8%B0%83%E6%A0%88%E9%A2%98%E7%9B%AE/)
 
 ## 单调栈
