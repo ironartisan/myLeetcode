@@ -25,6 +25,7 @@
 2. 先将初始坐标 `push` 到队列中，依次遍历相邻的四个位置，判断是否能满足条件；
 3. 若满足条件，则加入到队列中，并设置访问标记。
 
+{% raw %}
 ```c++
 class Solution {
 public:
@@ -65,6 +66,6 @@ private:
     }
 };
 ```
-
+{% endraw %}
 ## 其他题解
 * <https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/solution/mian-shi-ti-13-ji-qi-ren-de-yun-dong-fan-wei-dfs-b/>
