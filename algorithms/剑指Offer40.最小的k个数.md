@@ -13,7 +13,10 @@
 ## 思路
 
 ### 解法一：
+
 快排法
+
+
 ```python
 class Solution:
     def getLeastNumbers(self, arr: List[int], k: int) -> List[int]:
