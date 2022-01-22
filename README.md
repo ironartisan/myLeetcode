@@ -158,22 +158,22 @@
   - [x] [0752.打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)
   - [x] [0279.完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
 - 第 13 天课程题目：
-  - [ ] [0542.01 矩阵](https://leetcode-cn.com/problems/01-matrix/)
-  - [ ] [0322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)
-  - [ ] [剑指 Offer 13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
+  - [x] [0542.01 矩阵](https://leetcode-cn.com/problems/01-matrix/)
+  - [x] [0322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+  - [x] [剑指 Offer 13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
 - [更多队列与广度优先搜索题目](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/02.%E9%98%9F%E5%88%97%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/10.%E9%98%9F%E5%88%97%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E9%A2%98%E7%9B%AE/)
 
 ## 队列与广度优先搜索
 
-| Title                                                                                                  | Solution                                      | Difficulty | Types | Codes                                |
-| ------------------------------------------------------------------------------------------------------ | --------------------------------------------- | ---------- | ----- | ------------------------------------ |
-| [0622.设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)                           | [Solution](./algorithms/0622.设计循环队列.md)     | 简单       | DFS   | [C++](./cPlus/0622.设计循环队列.cpp)                |            |
-| [0225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)                    | [Solution](./algorithms/0225.用队列实现栈.md) | 简单       | DFS   | [C++](./cPlus/0225.用队列实现栈.cpp) |
-| [0752.打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)                                     | [Solution](./algorithms/0752.打开转盘锁.md)                | 中等       | DFS   | [C++](./cPlus/0752.打开转盘锁.cpp)                |
-| [0279.完全平方数](https://leetcode-cn.com/problems/perfect-squares/)                                   | [Solution](./algorithms/0279.完全平方数.md)                | 中等       | DFS   | [C++](./cPlus/0279.完全平方数.cpp)                |
-| [0542.01 矩阵](https://leetcode-cn.com/problems/01-matrix/)                                            | [Solution](./algorithms/xx.md)                | 简单       | DFS   | [C++](./cPlus/xx.cpp)                |
-| [0322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)                                         | [Solution](./algorithms/xx.md)                | 简单       | DFS   | [C++](./cPlus/xx.cpp)                |
-| [剑指 Offer 13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Solution](./algorithms/xx.md)                | 简单       | DFS   | [C++](./cPlus/xx.cpp)                |
+| Title                                                                                                | Solution                                                 | Difficulty | Types | Codes                                           |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------- | ----- | ----------------------------------------------- |
+| [0622.设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)                         | [Solution](./algorithms/0622.设计循环队列.md)            | 简单       | DFS   | [C++](./cPlus/0622.设计循环队列.cpp)            |  |
+| [0225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)                  | [Solution](./algorithms/0225.用队列实现栈.md)            | 简单       | DFS   | [C++](./cPlus/0225.用队列实现栈.cpp)            |
+| [0752.打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)                                   | [Solution](./algorithms/0752.打开转盘锁.md)              | 中等       | DFS   | [C++](./cPlus/0752.打开转盘锁.cpp)              |
+| [0279.完全平方数](https://leetcode-cn.com/problems/perfect-squares/)                                 | [Solution](./algorithms/0279.完全平方数.md)              | 中等       | DFS   | [C++](./cPlus/0279.完全平方数.cpp)              |
+| [0542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)                                           | [Solution](./algorithms/0542.01矩阵.md)                  | 中等       | DFS   | [C++](./cPlus/0542.01矩阵.cpp)                  |
+| [0322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)                                       | [Solution](./algorithms/0322.零钱兑换.md)                | 中等       | DFS   | [C++](./cPlus/0322.零钱兑换.cpp)                |
+| [剑指Offer13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Solution](./algorithms/剑指Offer13.机器人的运动范围.md) | 中等       | DFS   | [C++](./cPlus/剑指Offer13.机器人的运动范围.cpp) |
 
 ### Task 05 优先队列（1 天）
 
@@ -186,13 +186,15 @@
 - [更多优先队列题目](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/03.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/10.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%E9%A2%98%E7%9B%AE/)
 
 
-## 队列与广度优先搜索
+## 优先队列
 
 | Title                                                                                           | Solution                                  | Difficulty | Types | Codes                 |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | --------------------- |
 | [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | BFS   | [C++](./cPlus/xx.cpp) |
 | [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [C++](./cPlus/xx.cpp) |
 | [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/xx.md)            | 简单       | BFS   | [C++](./cPlus/xx.cpp) |
+
+
 
 # Leetcode 刷题课程第一期
 ## 模拟
