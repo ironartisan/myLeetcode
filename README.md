@@ -91,9 +91,9 @@
   - [x] [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)
   - [x] [0494.目标和](https://leetcode-cn.com/problems/target-sum/)
 - 第 08 天课程题目：
-  - [ ] [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)
-  - [ ] [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
-  - [ ] [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
+  - [x] [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)
+  - [x] [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+  - [x] [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
 - 第 09 天课程题目：
   - [ ] [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
   - [ ] [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
@@ -111,14 +111,14 @@
 | [0394.字符串解码](https://leetcode-cn.com/problems/decode-string/)                          | [Solution](./algorithms/0394.字符串解码.md)           | 中等       | 堆栈  | [C++](./cPlus/0394.字符串解码.cpp)           |
 | [0946.验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)               | [Solution](./algorithms/0946.验证栈序列.md)           | 中等       | 堆栈  | [C++](./cPlus/0946.验证栈序列.cpp)           |
 | [0200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                        | [Solution](./algorithms/0200.岛屿数量.md)             | 中等       | 堆栈  | [C++](./cPlus/0200.岛屿数量.cpp)             |
-| [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/0133.克隆图.md)               | 中等       | 堆栈  | [C++](./cPlus/0133.克隆图.cpp)               |
+| [0133.克隆图](https://leetcode-cn.com/problems/clone-graph/)                                | [Solution](./algorithms/0133.克隆图.md)               | 中等       | DFS  | [C++](./cPlus/0133.克隆图.cpp)               |
 | [0494.目标和](https://leetcode-cn.com/problems/target-sum/)                                 | [Solution](./algorithms/0494.目标和.md)               | 中等       | 堆栈  | [C++](./cPlus/0494.目标和.cpp)               |
 | [0841.钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/)                         | [Solution](./algorithms/0841.钥匙和房间.md)           | 中等       | 堆栈  | [C++](./cPlus/0841.钥匙和房间.cpp)           |
-| [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/0695.岛屿的最大面积.md)       | 简单       | 堆栈  | [C++](./cPlus/0695.岛屿的最大面积.cpp)       |
-| [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)                   | [Solution](./algorithms/0130.被围绕的区域.md)         | 简单       | 堆栈  | [C++](./cPlus/0130.被围绕的区域.cpp)         |
-| [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | [Solution](./algorithms/0417.太平洋大西洋水流问题.md) | 简单       | 堆栈  | [C++](./cPlus/0417.太平洋大西洋水流问题.cpp) |
-| [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)                     | [Solution](./algorithms/1020.飞地的数量.md)           | 简单       | 堆栈  | [C++](./cPlus/1020.飞地的数量.cpp)           |
-| [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)       | [Solution](./algorithms/1254.统计封闭岛屿的数目.md)   | 简单       | 堆栈  | [C++](./cPlus/1254.统计封闭岛屿的数目.cpp)   |
+| [0695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)                 | [Solution](./algorithms/0695.岛屿的最大面积.md)       | 中等       | 堆栈  | [C++](./cPlus/0695.岛屿的最大面积.cpp)       |
+| [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)                   | [Solution](./algorithms/0130.被围绕的区域.md)         | 中等       | 堆栈  | [C++](./cPlus/0130.被围绕的区域.cpp)         |
+| [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | [Solution](./algorithms/0417.太平洋大西洋水流问题.md) | 中等       | 堆栈  | [C++](./cPlus/0417.太平洋大西洋水流问题.cpp) |
+| [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)                     | [Solution](./algorithms/1020.飞地的数量.md)           | 中等       | 堆栈  | [C++](./cPlus/1020.飞地的数量.cpp)           |
+| [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)       | [Solution](./algorithms/1254.统计封闭岛屿的数目.md)   | 中等       | 堆栈  | [C++](./cPlus/1254.统计封闭岛屿的数目.cpp)   |
 
 ### Task 03 单调栈（1 天）
 
