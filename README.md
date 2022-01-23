@@ -96,11 +96,13 @@
   - [x] [0130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
 - 第 09 天课程题目：
   - [x] [0417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
-  - [ ] [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
-  - [ ] [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)
+  - [x] [1020.飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
+  - [x] [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)
 - [更多栈与深度优先搜索题目](https://algo.itcharge.cn/03.%E5%A0%86%E6%A0%88/02.%E5%A0%86%E6%A0%88%E4%B8%8E%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/10.%E5%A0%86%E6%A0%88%E4%B8%8E%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E9%A2%98%E7%9B%AE/)
 
 ## 堆栈与深度优先搜索
+
+[栈基础])(https://ironartisan.top/2022/01/19/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E-4.%E6%A0%88/)
 
 | Title                                                                                       | Solution                                              | Difficulty | Types | Codes                                        |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | ----- | -------------------------------------------- |
@@ -188,11 +190,11 @@
 
 ## 优先队列
 
-| Title                                                                                           | Solution                                  | Difficulty | Types | Codes                 |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ----- | --------------------- |
-| [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0707.设计链表.md) | 简单       | 队列  | [C++](./cPlus/xx.cpp) |
-| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/xx.md)            | 简单       | 队列  | [C++](./cPlus/xx.cpp) |
-| [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/xx.md)            | 简单       | 队列  | [C++](./cPlus/xx.cpp) |
+| Title                                                                                           | Solution                                               | Difficulty | Types | Codes                                         |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- | ----- | --------------------------------------------- |
+| [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0215.数组中的第K个最大元素.md) | 简单       | 队列  | [C++](./cPlus/0215.数组中的第K个最大元素.cpp) |
+| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前 K 个高频元素.md)       | 简单       | 队列  | [C++](./cPlus/0347.前 K 个高频元素.cpp)       |
+| [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/0451.根据字符出现频率排序.md)  | 简单       | 队列  | [C++](./cPlus/0451.根据字符出现频率排序.cpp)  |
 
 
 
