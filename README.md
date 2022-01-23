@@ -193,7 +193,7 @@
 | Title                                                                                           | Solution                                               | Difficulty | Types | Codes                                         |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- | ----- | --------------------------------------------- |
 | [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0215.数组中的第K个最大元素.md) | 简单       | 队列  | [C++](./cPlus/0215.数组中的第K个最大元素.cpp) |
-| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前 K 个高频元素.md)       | 简单       | 队列  | [C++](./cPlus/0347.前 K 个高频元素.cpp)       |
+| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前K个高频元素.md)       | 简单       | 队列  | [C++](./cPlus/0347.前 K 个高频元素.cpp)       |
 | [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/0451.根据字符出现频率排序.md)  | 简单       | 队列  | [C++](./cPlus/0451.根据字符出现频率排序.cpp)  |
 
 
@@ -231,7 +231,7 @@
 | [面试题 10.01.合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)                             | [Solution](./algorithms/面试题10.01.合并排序的数组.md)   | 简单       | 排序  | [Python](./python/面试题10.01.合并排序的数组.py)   |
 | [剑指 Offer 51.数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)               | [Solution](./algorithms/剑指Offer51.数组中的逆序对.md)   | 困难       | 排序  | [Python](./python/剑指Offer51.数组中的逆序对.py)   |
 | [75.颜色分类](https://leetcode-cn.com/problems/sort-colors/)                                                   | [Solution](./algorithms/75.颜色分类.md)                  | 中等       | 排序  | [Python](./python/75.颜色分类.py)                  |
-| [215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)                 | [Solution](./algorithms/215.数组中的第K个最大元素.md)    | 中等       | 排序  | [Python](./python/215.数组中的第K个最大元素.py)    |
+| [215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)                 | [Solution](./algorithms/0215.数组中的第K个最大元素.md)   | 中等       | 排序  | [Python](./python/215.数组中的第K个最大元素.py)    |
 | [剑指 Offer 40.最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)                        | [Solution](./algorithms/剑指Offer40.最小的k个数.md)      | 简单       | 排序  | [Python](./python/剑指Offer40.最小的k个数.py)      |
 | [1122.数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)                                   | [Solution](./algorithms/1122.数组的相对排序.md)          | 简单       | 排序  | [Python](./python/1122.数组的相对排序.py)          |
 | [908.最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                           | [Solution](./algorithms/908.最小差值I.md)                | 简单       | 排序  | [Python](./python/908.最小差值I.py)                |
