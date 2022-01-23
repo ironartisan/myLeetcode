@@ -192,9 +192,9 @@
 
 | Title                                                                                           | Solution                                               | Difficulty | Types | Codes                                         |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- | ----- | --------------------------------------------- |
-| [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0215.数组中的第K个最大元素.md) | 简单       | 队列  | [C++](./cPlus/0215.数组中的第K个最大元素.cpp) |
-| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前K个高频元素.md)         | 简单       | 队列  | [C++](./cPlus/0347.前 K 个高频元素.cpp)       |
-| [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/0451.根据字符出现频率排序.md)  | 简单       | 队列  | [C++](./cPlus/0451.根据字符出现频率排序.cpp)  |
+| [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0215.数组中的第K个最大元素.md) | 中等       | 堆    | [C++](./cPlus/0215.数组中的第K个最大元素.cpp) |
+| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前K个高频元素.md)         | 中等       | 堆    | [C++](./cPlus/0347.前 K 个高频元素.cpp)       |
+| [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/0451.根据字符出现频率排序.md)  | 中等       | 堆    | [C++](./cPlus/0451.根据字符出现频率排序.cpp)  |
 
 
 
