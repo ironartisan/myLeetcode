@@ -102,7 +102,7 @@
 
 ## 堆栈与深度优先搜索
 
-[栈基础])(https://ironartisan.top/2022/01/19/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E-4.%E6%A0%88/)
+[栈基础](https://ironartisan.top/2022/01/19/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E-4.%E6%A0%88/)
 
 | Title                                                                                       | Solution                                              | Difficulty | Types | Codes                                        |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | ----- | -------------------------------------------- |
@@ -180,11 +180,11 @@
 ### Task 05 优先队列（1 天）
 
 - 第 14 天学习内容：
-  - [ ] [优先队列](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/03.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/01.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%E7%9F%A5%E8%AF%86/)
+- [优先队列](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/03.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/01.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%E7%9F%A5%E8%AF%86/)
 - 第 14 天课程题目：
-  - [ ] [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
-  - [ ] [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
-  - [ ] [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
+  - [x] [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+  - [x] [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+  - [x] [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
 - [更多优先队列题目](https://algo.itcharge.cn/04.%E9%98%9F%E5%88%97/03.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/10.%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%E9%A2%98%E7%9B%AE/)
 
 
@@ -193,7 +193,7 @@
 | Title                                                                                           | Solution                                               | Difficulty | Types | Codes                                         |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- | ----- | --------------------------------------------- |
 | [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0215.数组中的第K个最大元素.md) | 简单       | 队列  | [C++](./cPlus/0215.数组中的第K个最大元素.cpp) |
-| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前K个高频元素.md)       | 简单       | 队列  | [C++](./cPlus/0347.前 K 个高频元素.cpp)       |
+| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前K个高频元素.md)         | 简单       | 队列  | [C++](./cPlus/0347.前 K 个高频元素.cpp)       |
 | [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/0451.根据字符出现频率排序.md)  | 简单       | 队列  | [C++](./cPlus/0451.根据字符出现频率排序.cpp)  |
 
 
