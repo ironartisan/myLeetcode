@@ -219,8 +219,6 @@
 | [54.螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)          | [Solution](./algorithms/54.螺旋矩阵.md)           | 中等       | 数组，模拟 | [Python](./python/54.螺旋矩阵.py)            |
 | [498.对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)   | [Solution](./algorithms/498.对角线遍历.md)        | 中等       | 数组，模拟 | [Python](./python/498.对角线遍历.py)         |
 
-
-
 ## 数组排序
 
 
@@ -247,7 +245,7 @@
 
 | Title                                                                                                          | Solution                                                     | Difficulty | Types    | Codes                                                  |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | -------- | ------------------------------------------------------ |
-| [0704.二分查找](https://leetcode-cn.com/problems/binary-search/)                                               | [Solution](./algorithms/704.二分查找.md)                     | 简单       | 二分查找 | [Python](./python/704.二分查找.py)                     |
+| [0704.二分查找](https://leetcode-cn.com/problems/binary-search/)                                               | [Solution](./algorithms/704.二分查找.md)                     | 简单       | 二分查找 | [Python](./python/704.二分查找.py) [C++](cplus/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.cpp)                    |
 | [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)                                  | [Solution](./algorithms/35.搜索插入位置.md)                  | 简单       | 二分查找 | [Python](./python/35.搜索插入位置.py)                  |
 | [0374.猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)                              | [Solution](./algorithms/374.猜数字大小.md)                   | 简单       | 二分查找 | [Python](./python/374.猜数字大小.py)                   |
 | [0069.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)                                                        | [Solution](./algorithms/69.Sqrt.md)                          | 简单       | 二分查找 | [Python](./python/69.Sqrt(x).py)                       |
