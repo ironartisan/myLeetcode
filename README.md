@@ -195,7 +195,7 @@
 | Title                                                                                           | Solution                                               | Difficulty | Types | Codes                                         |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- | ----- | --------------------------------------------- |
 | [0215.数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solution](./algorithms/0215.数组中的第K个最大元素.md) | 中等       | 堆    | [C++](./cPlus/0215.数组中的第K个最大元素.cpp) |
-| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前K个高频元素.md)         | 中等       | 堆    | [C++](./cPlus/0347.前K个高频元素.cpp)       |
+| [0347.前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)               | [Solution](./algorithms/0347.前K个高频元素.md)         | 中等       | 堆    | [C++](./cPlus/0347.前K个高频元素.cpp)         |
 | [0451.根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)     | [Solution](./algorithms/0451.根据字符出现频率排序.md)  | 中等       | 堆    | [C++](./cPlus/0451.根据字符出现频率排序.cpp)  |
 
 
@@ -243,22 +243,22 @@
 
 [二分查找法理论](./base/二分查找法理论.md)
 
-| Title                                                                                                          | Solution                                                     | Difficulty | Types    | Codes                                                  |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | -------- | ------------------------------------------------------ |
-| [0704.二分查找](https://leetcode-cn.com/problems/binary-search/)                                               | [Solution](./algorithms/704.二分查找.md)                     | 简单       | 二分查找 | [Python](./python/704.二分查找.py) [C++](cplus/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.cpp)                    |
-| [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)                                  | [Solution](./algorithms/35.搜索插入位置.md)                  | 简单       | 二分查找 | [Python](./python/35.搜索插入位置.py)                  |
-| [0374.猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)                              | [Solution](./algorithms/374.猜数字大小.md)                   | 简单       | 二分查找 | [Python](./python/374.猜数字大小.py)                   |
-| [0069.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)                                                        | [Solution](./algorithms/69.Sqrt.md)                          | 简单       | 二分查找 | [Python](./python/69.Sqrt(x).py)                       |
-| [0167.两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)          | [Solution](./algorithms/167.两数之和II-输入有序数组.md)      | 简单       | 二分查找 | [Python](./python/167.两数之和II-输入有序数组.py)      |
-| [1011.在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)      | [Solution](./algorithms/1011.在D天内送达包裹的能力.md)       | 中等       | 二分查找 | [Python](./python/1011.在D天内送达包裹的能力.py)       |
-| [0278.第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)                                   | [Solution](./algorithms/278.第一个错误的版本.md)             | 简单       | 二分查找 | [Python](./python/278.第一个错误的版本.py)             |
-| [0033.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)                      | [Solution](./algorithms/33.搜索旋转排序数组.md)              | 中等       | 二分查找 | [Python](./python/33.搜索旋转排序数组.py)              |
-| [0153.寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)      | [Solution](./algorithms/153.寻找旋转排序数组中的最小值.md)   | 中等       | 二分查找 | [Python](./python/153.寻找旋转排序数组中的最小值.py)   |
-| [81.搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)                  | [Solution](./algorithms/81.搜索旋转排序数组II.md)            | 中等       | 二分查找 | [Python](./python/81.搜索旋转排序数组II.py)            |
-| [154.寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./algorithms/154.寻找旋转排序数组中的最小值II.md) | 困难       | 二分查找 | [Python](./python/154.寻找旋转排序数组中的最小值II.py) |
-| [875.爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)                                    | [Solution](./algorithms/875.爱吃香蕉的珂珂.md)               | 中等       | 二分查找 | [Python](./python/875.爱吃香蕉的珂珂.py)               |
-| [1446.连续字符](https://leetcode-cn.com/problems/consecutive-characters/)                                      | [Solution](./algorithms/1446.连续字符.md)                    | 简单       | 二分查找 | [Python](./python/1446.连续字符.py)                    |
-| [911.在线选举](https://leetcode-cn.com/problems/online-election/)                                              | [Solution](./algorithms/911.在线选举.md)                     | 简单       | 二分查找 | [Python](./python/911.在线选举.py)                     |
+| Title                                                                                                          | Solution                                                     | Difficulty | Types    | Codes                                                                                         |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | -------- | --------------------------------------------------------------------------------------------- |
+| [0704.二分查找](https://leetcode-cn.com/problems/binary-search/)                                               | [Solution](./algorithms/704.二分查找.md)                     | 简单       | 二分查找 | [Python](./python/704.二分查找.py) [C++](cplus/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.cpp) |
+| [0035.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)                                  | [Solution](./algorithms/35.搜索插入位置.md)                  | 简单       | 二分查找 | [Python](./python/35.搜索插入位置.py)                                                         |
+| [0374.猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)                              | [Solution](./algorithms/374.猜数字大小.md)                   | 简单       | 二分查找 | [Python](./python/374.猜数字大小.py)                                                          |
+| [0069.Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)                                                        | [Solution](./algorithms/69.Sqrt.md)                          | 简单       | 二分查找 | [Python](./python/69.Sqrt(x).py)                                                              |
+| [0167.两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)          | [Solution](./algorithms/167.两数之和II-输入有序数组.md)      | 简单       | 二分查找 | [Python](./python/167.两数之和II-输入有序数组.py)                                             |
+| [1011.在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)      | [Solution](./algorithms/1011.在D天内送达包裹的能力.md)       | 中等       | 二分查找 | [Python](./python/1011.在D天内送达包裹的能力.py)                                              |
+| [0278.第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)                                   | [Solution](./algorithms/278.第一个错误的版本.md)             | 简单       | 二分查找 | [Python](./python/278.第一个错误的版本.py)                                                    |
+| [0033.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)                      | [Solution](./algorithms/33.搜索旋转排序数组.md)              | 中等       | 二分查找 | [Python](./python/33.搜索旋转排序数组.py)                                                     |
+| [0153.寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)      | [Solution](./algorithms/153.寻找旋转排序数组中的最小值.md)   | 中等       | 二分查找 | [Python](./python/153.寻找旋转排序数组中的最小值.py)                                          |
+| [81.搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)                  | [Solution](./algorithms/81.搜索旋转排序数组II.md)            | 中等       | 二分查找 | [Python](./python/81.搜索旋转排序数组II.py)                                                   |
+| [154.寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./algorithms/154.寻找旋转排序数组中的最小值II.md) | 困难       | 二分查找 | [Python](./python/154.寻找旋转排序数组中的最小值II.py)                                        |
+| [875.爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)                                    | [Solution](./algorithms/875.爱吃香蕉的珂珂.md)               | 中等       | 二分查找 | [Python](./python/875.爱吃香蕉的珂珂.py)                                                      |
+| [1446.连续字符](https://leetcode-cn.com/problems/consecutive-characters/)                                      | [Solution](./algorithms/1446.连续字符.md)                    | 简单       | 二分查找 | [Python](./python/1446.连续字符.py)                                                           |
+| [911.在线选举](https://leetcode-cn.com/problems/online-election/)                                              | [Solution](./algorithms/911.在线选举.md)                     | 简单       | 二分查找 | [Python](./python/911.在线选举.py)                                                            |
 
 
 ## 双指针与滑动窗口
@@ -278,6 +278,7 @@
 | [1004.最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)                     | [Solution](./algorithms/1004.最大连续1的个数III.md)        | 中等       | 双指针         | [Python](./python/1004.最大连续1的个数III.py)                           |
 | [0220.存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)                          | [Solution](./algorithms/220.存在重复元素III.md)            | 中等       | 滑动窗口       | [Python](./python/220.存在重复元素III.py)                               |
 | [438.找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)          | [Solution](./algorithms/438.找到字符串中所有字母异位词.md) | 中等       | 滑动窗口       | [Python](./python/438.找到字符串中所有字母异位词.py)                    |
+| [0977.有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)                             | [Solution](./algorithms/0977.有序数组的平方.md)            | 简单       | 双指针         | [C++](./cPlus/0977.有序数组的平方.cpp)                                        |
 
 ## 哈希表
 
